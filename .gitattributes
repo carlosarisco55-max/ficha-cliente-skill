@@ -1,0 +1,2 @@
+# el módulo csv de Python escribe CRLF en todos los sistemas: así el ejemplo regenerado coincide byte a byte
+*.csv text eol=crlf
