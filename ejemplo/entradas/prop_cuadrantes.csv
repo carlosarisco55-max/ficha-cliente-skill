@@ -1,0 +1,5 @@
+familia,segmento,n,tiene_antigua,compra_vigente,tiene_pct_n,compra_pct_n,mercado,pct_antigua_sobre_compradores,palanca
+Tetera,Mujer >=35,511,58,29,0.1135,0.0568,Sensible,0.667,Captar más clientes de este perfil + novedades
+Tetera,Hombre >=35,454,110,2,0.2423,0.0044,Saturado,0.982,"Plan renove: valorar el usado y descontarlo. Migrar, no captar"
+Tetera,Hombre <35,305,73,4,0.2393,0.0131,Saturado,0.948,"Plan renove: valorar el usado y descontarlo. Migrar, no captar"
+Tetera,Mujer <35,230,32,6,0.1391,0.0261,Insensible,0.842,"Revisar la OFERTA (surtido, argumento), no más impactos"

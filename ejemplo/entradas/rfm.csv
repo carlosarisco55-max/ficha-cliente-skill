@@ -1,0 +1,1501 @@
+Id,Dias,Compras,Gasto,R,F,M,Codigo_RFM,Grupo
+CL00001,116,3,35.00,3,3,2,332,1. Campeones
+CL00002,666,1,10.50,1,1,1,111,6. A punto de perderse
+CL00003,211,3,128.50,2,3,3,233,3. Valiosos enfriandose
+CL00004,713,1,10.50,1,1,1,111,6. A punto de perderse
+CL00005,91,3,63.00,3,3,3,333,1. Campeones
+CL00006,357,6,64.00,1,3,3,133,5. Valiosos en riesgo
+CL00007,61,2,24.75,3,2,2,322,1. Campeones
+CL00008,236,1,10.50,2,1,1,211,4. Ocasionales en pausa
+CL00009,102,3,39.50,3,3,2,332,1. Campeones
+CL00010,652,2,63.00,1,2,3,123,5. Valiosos en riesgo
+CL00011,695,1,8.75,1,1,1,111,6. A punto de perderse
+CL00012,56,4,133.50,3,3,3,333,1. Campeones
+CL00013,657,1,8.00,1,1,1,111,6. A punto de perderse
+CL00014,187,2,55.50,2,2,3,223,3. Valiosos enfriandose
+CL00015,10,2,62.50,3,2,3,323,1. Campeones
+CL00016,89,2,68.00,3,2,3,323,1. Campeones
+CL00017,199,6,81.50,2,3,3,233,3. Valiosos enfriandose
+CL00018,353,1,8.75,1,1,1,111,6. A punto de perderse
+CL00019,183,1,18.50,2,1,1,211,4. Ocasionales en pausa
+CL00020,501,1,21.00,1,1,1,111,6. A punto de perderse
+CL00021,188,5,112.50,2,3,3,233,3. Valiosos enfriandose
+CL00022,553,3,43.25,1,3,3,133,5. Valiosos en riesgo
+CL00023,201,3,84.50,2,3,3,233,3. Valiosos enfriandose
+CL00024,103,5,40.00,3,3,2,332,1. Campeones
+CL00025,478,3,70.00,1,3,3,133,5. Valiosos en riesgo
+CL00026,245,3,92.50,1,3,3,133,5. Valiosos en riesgo
+CL00027,595,1,10.50,1,1,1,111,6. A punto de perderse
+CL00028,712,1,21.00,1,1,1,111,6. A punto de perderse
+CL00029,213,1,16.00,2,1,1,211,4. Ocasionales en pausa
+CL00030,14,3,61.50,3,3,3,333,1. Campeones
+CL00031,717,1,8.00,1,1,1,111,6. A punto de perderse
+CL00032,399,1,38.50,1,1,2,112,6. A punto de perderse
+CL00033,418,6,73.50,1,3,3,133,5. Valiosos en riesgo
+CL00034,142,1,26.50,2,1,2,212,4. Ocasionales en pausa
+CL00035,522,4,119.00,1,3,3,133,5. Valiosos en riesgo
+CL00036,86,3,24.00,3,3,2,332,1. Campeones
+CL00037,331,1,18.50,1,1,1,111,6. A punto de perderse
+CL00038,26,2,65.25,3,2,3,323,1. Campeones
+CL00039,31,7,88.00,3,3,3,333,1. Campeones
+CL00040,623,4,42.00,1,3,2,132,5. Valiosos en riesgo
+CL00041,205,3,70.50,2,3,3,233,3. Valiosos enfriandose
+CL00042,569,4,40.00,1,3,2,132,5. Valiosos en riesgo
+CL00043,95,4,95.00,3,3,3,333,1. Campeones
+CL00044,613,3,79.25,1,3,3,133,5. Valiosos en riesgo
+CL00045,305,3,66.25,1,3,3,133,5. Valiosos en riesgo
+CL00046,67,7,138.25,3,3,3,333,1. Campeones
+CL00047,243,2,24.75,2,2,2,222,3. Valiosos enfriandose
+CL00048,195,4,42.00,2,3,2,232,3. Valiosos enfriandose
+CL00049,458,1,49.50,1,1,3,113,6. A punto de perderse
+CL00050,190,1,18.50,2,1,1,211,4. Ocasionales en pausa
+CL00051,517,1,21.00,1,1,1,111,6. A punto de perderse
+CL00052,94,5,40.00,3,3,2,332,1. Campeones
+CL00053,262,4,92.50,1,3,3,133,5. Valiosos en riesgo
+CL00054,372,2,21.00,1,2,1,121,6. A punto de perderse
+CL00055,244,2,51.00,1,2,3,123,5. Valiosos en riesgo
+CL00056,188,1,16.75,2,1,1,211,4. Ocasionales en pausa
+CL00057,556,2,24.00,1,2,2,122,5. Valiosos en riesgo
+CL00058,529,1,27.25,1,1,2,112,6. A punto de perderse
+CL00059,286,5,113.50,1,3,3,133,5. Valiosos en riesgo
+CL00060,88,4,83.00,3,3,3,333,1. Campeones
+CL00061,53,7,203.50,3,3,3,333,1. Campeones
+CL00062,396,3,101.00,1,3,3,133,5. Valiosos en riesgo
+CL00063,376,3,91.50,1,3,3,133,5. Valiosos en riesgo
+CL00064,348,4,50.50,1,3,3,133,5. Valiosos en riesgo
+CL00065,185,5,135.25,2,3,3,233,3. Valiosos enfriandose
+CL00066,70,3,35.00,3,3,2,332,1. Campeones
+CL00067,337,1,28.00,1,1,2,112,6. A punto de perderse
+CL00068,163,2,31.50,2,2,2,222,3. Valiosos enfriandose
+CL00069,39,3,50.00,3,3,3,333,1. Campeones
+CL00070,656,1,47.75,1,1,3,113,6. A punto de perderse
+CL00071,220,1,29.00,2,1,2,212,4. Ocasionales en pausa
+CL00072,265,1,8.00,1,1,1,111,6. A punto de perderse
+CL00073,370,2,24.00,1,2,2,122,5. Valiosos en riesgo
+CL00074,635,3,26.50,1,3,2,132,5. Valiosos en riesgo
+CL00075,85,2,21.00,3,2,1,321,2. Recientes de una compra
+CL00076,140,3,34.25,2,3,2,232,3. Valiosos enfriandose
+CL00077,54,4,50.00,3,3,3,333,1. Campeones
+CL00078,89,4,169.75,3,3,3,333,1. Campeones
+CL00079,241,6,244.75,2,3,3,233,3. Valiosos enfriandose
+CL00080,229,3,91.50,2,3,3,233,3. Valiosos enfriandose
+CL00081,330,1,8.00,1,1,1,111,6. A punto de perderse
+CL00082,11,3,58.00,3,3,3,333,1. Campeones
+CL00083,98,2,57.00,3,2,3,323,1. Campeones
+CL00084,517,3,71.00,1,3,3,133,5. Valiosos en riesgo
+CL00085,200,5,111.00,2,3,3,233,3. Valiosos enfriandose
+CL00086,660,1,37.00,1,1,2,112,6. A punto de perderse
+CL00087,10,6,84.00,3,3,3,333,1. Campeones
+CL00088,319,4,94.25,1,3,3,133,5. Valiosos en riesgo
+CL00089,102,3,40.00,3,3,2,332,1. Campeones
+CL00090,287,1,16.75,1,1,1,111,6. A punto de perderse
+CL00091,96,5,112.50,3,3,3,333,1. Campeones
+CL00092,371,3,50.75,1,3,3,133,5. Valiosos en riesgo
+CL00093,17,8,175.50,3,3,3,333,1. Campeones
+CL00094,216,1,10.50,2,1,1,211,4. Ocasionales en pausa
+CL00095,442,5,127.50,1,3,3,133,5. Valiosos en riesgo
+CL00096,346,1,8.00,1,1,1,111,6. A punto de perderse
+CL00097,543,5,63.00,1,3,3,133,5. Valiosos en riesgo
+CL00098,196,2,33.50,2,2,2,222,3. Valiosos enfriandose
+CL00099,483,1,8.00,1,1,1,111,6. A punto de perderse
+CL00100,304,2,73.00,1,2,3,123,5. Valiosos en riesgo
+CL00101,13,5,170.50,3,3,3,333,1. Campeones
+CL00102,214,2,81.00,2,2,3,223,3. Valiosos enfriandose
+CL00103,439,1,18.50,1,1,1,111,6. A punto de perderse
+CL00104,260,5,137.50,1,3,3,133,5. Valiosos en riesgo
+CL00105,359,8,213.50,1,3,3,133,5. Valiosos en riesgo
+CL00106,308,1,10.50,1,1,1,111,6. A punto de perderse
+CL00107,386,2,31.50,1,2,2,122,5. Valiosos en riesgo
+CL00108,159,1,8.75,2,1,1,211,4. Ocasionales en pausa
+CL00109,10,6,81.50,3,3,3,333,1. Campeones
+CL00110,239,4,138.75,2,3,3,233,3. Valiosos enfriandose
+CL00111,191,1,10.50,2,1,1,211,4. Ocasionales en pausa
+CL00112,135,3,52.50,2,3,3,233,3. Valiosos enfriandose
+CL00113,20,4,60.50,3,3,3,333,1. Campeones
+CL00114,137,1,33.50,2,1,2,212,4. Ocasionales en pausa
+CL00115,246,2,21.00,1,2,1,121,6. A punto de perderse
+CL00116,214,4,71.00,2,3,3,233,3. Valiosos enfriandose
+CL00117,26,3,83.50,3,3,3,333,1. Campeones
+CL00118,113,6,106.25,3,3,3,333,1. Campeones
+CL00119,428,3,64.00,1,3,3,133,5. Valiosos en riesgo
+CL00120,400,2,76.00,1,2,3,123,5. Valiosos en riesgo
+CL00121,157,2,31.50,2,2,2,222,3. Valiosos enfriandose
+CL00122,36,6,134.75,3,3,3,333,1. Campeones
+CL00123,142,6,152.25,2,3,3,233,3. Valiosos enfriandose
+CL00124,619,1,66.25,1,1,3,113,6. A punto de perderse
+CL00125,645,1,8.75,1,1,1,111,6. A punto de perderse
+CL00126,280,5,56.00,1,3,3,133,5. Valiosos en riesgo
+CL00127,496,4,91.50,1,3,3,133,5. Valiosos en riesgo
+CL00128,150,3,32.00,2,3,2,232,3. Valiosos enfriandose
+CL00129,568,3,139.25,1,3,3,133,5. Valiosos en riesgo
+CL00130,375,1,16.75,1,1,1,111,6. A punto de perderse
+CL00131,61,2,58.25,3,2,3,323,1. Campeones
+CL00132,106,2,24.00,3,2,2,322,1. Campeones
+CL00133,252,3,31.50,1,3,2,132,5. Valiosos en riesgo
+CL00134,276,2,42.00,1,2,2,122,5. Valiosos en riesgo
+CL00135,15,5,179.00,3,3,3,333,1. Campeones
+CL00136,257,1,25.50,1,1,2,112,6. A punto de perderse
+CL00137,444,1,8.00,1,1,1,111,6. A punto de perderse
+CL00138,98,6,202.00,3,3,3,333,1. Campeones
+CL00139,140,6,138.00,2,3,3,233,3. Valiosos enfriandose
+CL00140,103,4,40.00,3,3,2,332,1. Campeones
+CL00141,182,1,21.00,2,1,1,211,4. Ocasionales en pausa
+CL00142,263,5,58.50,1,3,3,133,5. Valiosos en riesgo
+CL00143,568,2,70.50,1,2,3,123,5. Valiosos en riesgo
+CL00144,195,3,115.25,2,3,3,233,3. Valiosos enfriandose
+CL00145,251,1,10.50,1,1,1,111,6. A punto de perderse
+CL00146,364,5,52.50,1,3,3,133,5. Valiosos en riesgo
+CL00147,80,3,74.00,3,3,3,333,1. Campeones
+CL00148,207,2,17.50,2,2,1,221,4. Ocasionales en pausa
+CL00149,221,8,261.00,2,3,3,233,3. Valiosos enfriandose
+CL00150,653,1,16.00,1,1,1,111,6. A punto de perderse
+CL00151,180,1,10.50,2,1,1,211,4. Ocasionales en pausa
+CL00152,250,3,24.00,1,3,2,132,5. Valiosos en riesgo
+CL00153,261,3,66.75,1,3,3,133,5. Valiosos en riesgo
+CL00154,165,2,24.00,2,2,2,222,3. Valiosos enfriandose
+CL00155,174,1,26.50,2,1,2,212,4. Ocasionales en pausa
+CL00156,303,1,47.75,1,1,3,113,6. A punto de perderse
+CL00157,138,4,74.00,2,3,3,233,3. Valiosos enfriandose
+CL00158,157,2,72.50,2,2,3,223,3. Valiosos enfriandose
+CL00159,158,4,63.00,2,3,3,233,3. Valiosos enfriandose
+CL00160,26,2,19.25,3,2,1,321,2. Recientes de una compra
+CL00161,171,1,8.00,2,1,1,211,4. Ocasionales en pausa
+CL00162,24,2,21.00,3,2,1,321,2. Recientes de una compra
+CL00163,428,3,94.50,1,3,3,133,5. Valiosos en riesgo
+CL00164,724,1,25.50,1,1,2,112,6. A punto de perderse
+CL00165,526,1,8.75,1,1,1,111,6. A punto de perderse
+CL00166,216,3,98.50,2,3,3,233,3. Valiosos enfriandose
+CL00167,36,4,107.75,3,3,3,333,1. Campeones
+CL00168,642,1,26.50,1,1,2,112,6. A punto de perderse
+CL00169,376,2,26.25,1,2,2,122,5. Valiosos en riesgo
+CL00170,210,1,8.00,2,1,1,211,4. Ocasionales en pausa
+CL00171,31,4,144.25,3,3,3,333,1. Campeones
+CL00172,29,2,33.50,3,2,2,322,1. Campeones
+CL00173,236,3,79.00,2,3,3,233,3. Valiosos enfriandose
+CL00174,292,4,52.50,1,3,3,133,5. Valiosos en riesgo
+CL00175,286,3,43.75,1,3,3,133,5. Valiosos en riesgo
+CL00176,25,8,187.25,3,3,3,333,1. Campeones
+CL00177,433,1,37.75,1,1,2,112,6. A punto de perderse
+CL00178,62,3,63.00,3,3,3,333,1. Campeones
+CL00179,719,1,58.25,1,1,3,113,6. A punto de perderse
+CL00180,323,3,74.00,1,3,3,133,5. Valiosos en riesgo
+CL00181,115,5,73.50,3,3,3,333,1. Campeones
+CL00182,417,4,74.00,1,3,3,133,5. Valiosos en riesgo
+CL00183,351,2,81.00,1,2,3,123,5. Valiosos en riesgo
+CL00184,64,8,160.75,3,3,3,333,1. Campeones
+CL00185,718,1,8.00,1,1,1,111,6. A punto de perderse
+CL00186,404,1,8.75,1,1,1,111,6. A punto de perderse
+CL00187,142,1,16.00,2,1,1,211,4. Ocasionales en pausa
+CL00188,214,5,124.75,2,3,3,233,3. Valiosos enfriandose
+CL00189,250,2,62.50,1,2,3,123,5. Valiosos en riesgo
+CL00190,257,6,103.25,1,3,3,133,5. Valiosos en riesgo
+CL00191,369,1,21.00,1,1,1,111,6. A punto de perderse
+CL00192,24,5,102.00,3,3,3,333,1. Campeones
+CL00193,218,3,70.50,2,3,3,233,3. Valiosos enfriandose
+CL00194,379,1,27.25,1,1,2,112,6. A punto de perderse
+CL00195,178,3,24.00,2,3,2,232,3. Valiosos enfriandose
+CL00196,185,3,74.00,2,3,3,233,3. Valiosos enfriandose
+CL00197,354,4,74.00,1,3,3,133,5. Valiosos en riesgo
+CL00198,216,4,92.50,2,3,3,233,3. Valiosos enfriandose
+CL00199,147,6,77.00,2,3,3,233,3. Valiosos enfriandose
+CL00200,45,2,21.00,3,2,1,321,2. Recientes de una compra
+CL00201,597,3,70.50,1,3,3,133,5. Valiosos en riesgo
+CL00202,208,2,62.50,2,2,3,223,3. Valiosos enfriandose
+CL00203,670,1,37.00,1,1,2,112,6. A punto de perderse
+CL00204,273,1,17.50,1,1,1,111,6. A punto de perderse
+CL00205,46,2,16.00,3,2,1,321,2. Recientes de una compra
+CL00206,593,1,21.00,1,1,1,111,6. A punto de perderse
+CL00207,451,5,127.00,1,3,3,133,5. Valiosos en riesgo
+CL00208,17,5,153.00,3,3,3,333,1. Campeones
+CL00209,73,5,70.00,3,3,3,333,1. Campeones
+CL00210,123,5,120.50,2,3,3,233,3. Valiosos enfriandose
+CL00211,217,3,87.75,2,3,3,233,3. Valiosos enfriandose
+CL00212,280,2,39.50,1,2,2,122,5. Valiosos en riesgo
+CL00213,231,1,44.00,2,1,3,213,4. Ocasionales en pausa
+CL00214,492,1,27.25,1,1,2,112,6. A punto de perderse
+CL00215,59,4,95.00,3,3,3,333,1. Campeones
+CL00216,509,1,60.00,1,1,3,113,6. A punto de perderse
+CL00217,366,1,8.00,1,1,1,111,6. A punto de perderse
+CL00218,278,1,29.00,1,1,2,112,6. A punto de perderse
+CL00219,76,3,86.50,3,3,3,333,1. Campeones
+CL00220,556,1,37.75,1,1,2,112,6. A punto de perderse
+CL00221,125,2,71.00,2,2,3,223,3. Valiosos enfriandose
+CL00222,196,1,10.50,2,1,1,211,4. Ocasionales en pausa
+CL00223,135,4,83.75,2,3,3,233,3. Valiosos enfriandose
+CL00224,94,8,119.00,3,3,3,333,1. Campeones
+CL00225,54,3,91.50,3,3,3,333,1. Campeones
+CL00226,216,4,50.75,2,3,3,233,3. Valiosos enfriandose
+CL00227,255,8,110.25,1,3,3,133,5. Valiosos en riesgo
+CL00228,58,6,214.25,3,3,3,333,1. Campeones
+CL00229,161,2,16.00,2,2,1,221,4. Ocasionales en pausa
+CL00230,107,3,49.50,3,3,3,333,1. Campeones
+CL00231,383,2,60.00,1,2,3,123,5. Valiosos en riesgo
+CL00232,103,5,110.00,3,3,3,333,1. Campeones
+CL00233,142,2,31.50,2,2,2,222,3. Valiosos enfriandose
+CL00234,25,4,78.50,3,3,3,333,1. Campeones
+CL00235,556,6,73.50,1,3,3,133,5. Valiosos en riesgo
+CL00236,226,3,32.00,2,3,2,232,3. Valiosos enfriandose
+CL00237,175,1,10.50,2,1,1,211,4. Ocasionales en pausa
+CL00238,15,3,32.00,3,3,2,332,1. Campeones
+CL00239,58,5,52.50,3,3,3,333,1. Campeones
+CL00240,381,5,104.75,1,3,3,133,5. Valiosos en riesgo
+CL00241,7,7,186.50,3,3,3,333,1. Campeones
+CL00242,423,4,68.00,1,3,3,133,5. Valiosos en riesgo
+CL00243,243,1,25.50,2,1,2,212,4. Ocasionales en pausa
+CL00244,195,1,8.00,2,1,1,211,4. Ocasionales en pausa
+CL00245,49,4,52.50,3,3,3,333,1. Campeones
+CL00246,149,8,214.25,2,3,3,233,3. Valiosos enfriandose
+CL00247,33,3,46.50,3,3,3,333,1. Campeones
+CL00248,183,6,64.00,2,3,3,233,3. Valiosos enfriandose
+CL00249,662,2,37.00,1,2,2,122,5. Valiosos en riesgo
+CL00250,627,2,65.00,1,2,3,123,5. Valiosos en riesgo
+CL00251,105,2,65.00,3,2,3,323,1. Campeones
+CL00252,429,1,8.75,1,1,1,111,6. A punto de perderse
+CL00253,71,3,106.75,3,3,3,333,1. Campeones
+CL00254,1,5,84.00,3,3,3,333,1. Campeones
+CL00255,344,8,187.25,1,3,3,133,5. Valiosos en riesgo
+CL00256,385,2,42.00,1,2,2,122,5. Valiosos en riesgo
+CL00257,384,4,32.75,1,3,2,132,5. Valiosos en riesgo
+CL00258,41,6,180.25,3,3,3,333,1. Campeones
+CL00259,557,5,60.50,1,3,3,133,5. Valiosos en riesgo
+CL00260,69,3,58.25,3,3,3,333,1. Campeones
+CL00261,213,5,91.50,2,3,3,233,3. Valiosos enfriandose
+CL00262,211,1,21.00,2,1,1,211,4. Ocasionales en pausa
+CL00263,80,6,82.25,3,3,3,333,1. Campeones
+CL00264,583,1,10.50,1,1,1,111,6. A punto de perderse
+CL00265,150,3,31.50,2,3,2,232,3. Valiosos enfriandose
+CL00266,481,2,31.50,1,2,2,122,5. Valiosos en riesgo
+CL00267,282,4,111.00,1,3,3,133,5. Valiosos en riesgo
+CL00268,414,1,28.00,1,1,2,112,6. A punto de perderse
+CL00269,45,4,32.75,3,3,2,332,1. Campeones
+CL00270,69,2,35.00,3,2,2,322,1. Campeones
+CL00271,14,7,119.25,3,3,3,333,1. Campeones
+CL00272,484,2,16.75,1,2,1,121,6. A punto de perderse
+CL00273,105,4,110.50,3,3,3,333,1. Campeones
+CL00274,107,3,55.50,3,3,3,333,1. Campeones
+CL00275,117,3,74.75,3,3,3,333,1. Campeones
+CL00276,429,3,134.00,1,3,3,133,5. Valiosos en riesgo
+CL00277,319,3,58.25,1,3,3,133,5. Valiosos en riesgo
+CL00278,6,2,60.00,3,2,3,323,1. Campeones
+CL00279,704,2,60.00,1,2,3,123,5. Valiosos en riesgo
+CL00280,265,5,118.75,1,3,3,133,5. Valiosos en riesgo
+CL00281,483,1,10.50,1,1,1,111,6. A punto de perderse
+CL00282,448,4,100.50,1,3,3,133,5. Valiosos en riesgo
+CL00283,285,6,150.00,1,3,3,133,5. Valiosos en riesgo
+CL00284,709,1,25.50,1,1,2,112,6. A punto de perderse
+CL00285,152,8,130.75,2,3,3,233,3. Valiosos enfriandose
+CL00286,317,4,113.50,1,3,3,133,5. Valiosos en riesgo
+CL00287,69,2,89.75,3,2,3,323,1. Campeones
+CL00288,124,4,40.25,2,3,2,232,3. Valiosos enfriandose
+CL00289,445,1,37.75,1,1,2,112,6. A punto de perderse
+CL00290,394,1,46.50,1,1,3,113,6. A punto de perderse
+CL00291,697,1,10.50,1,1,1,111,6. A punto de perderse
+CL00292,699,1,10.50,1,1,1,111,6. A punto de perderse
+CL00293,407,8,253.50,1,3,3,133,5. Valiosos en riesgo
+CL00294,84,2,29.75,3,2,2,322,1. Campeones
+CL00295,103,5,111.00,3,3,3,333,1. Campeones
+CL00296,276,8,148.75,1,3,3,133,5. Valiosos en riesgo
+CL00297,154,1,16.00,2,1,1,211,4. Ocasionales en pausa
+CL00298,0,6,71.75,3,3,3,333,1. Campeones
+CL00299,83,2,49.50,3,2,3,323,1. Campeones
+CL00300,40,4,91.50,3,3,3,333,1. Campeones
+CL00301,322,2,24.00,1,2,2,122,5. Valiosos en riesgo
+CL00302,49,2,33.50,3,2,2,322,1. Campeones
+CL00303,303,1,8.00,1,1,1,111,6. A punto de perderse
+CL00304,629,2,16.00,1,2,1,121,6. A punto de perderse
+CL00305,291,8,309.75,1,3,3,133,5. Valiosos en riesgo
+CL00306,236,3,31.50,2,3,2,232,3. Valiosos enfriandose
+CL00307,512,1,10.50,1,1,1,111,6. A punto de perderse
+CL00308,421,1,18.50,1,1,1,111,6. A punto de perderse
+CL00309,261,1,25.50,1,1,2,112,6. A punto de perderse
+CL00310,36,6,132.75,3,3,3,333,1. Campeones
+CL00311,62,4,48.00,3,3,3,333,1. Campeones
+CL00312,564,1,37.00,1,1,2,112,6. A punto de perderse
+CL00313,142,1,18.50,2,1,1,211,4. Ocasionales en pausa
+CL00314,358,2,81.25,1,2,3,123,5. Valiosos en riesgo
+CL00315,22,3,75.00,3,3,3,333,1. Campeones
+CL00316,78,2,21.00,3,2,1,321,2. Recientes de una compra
+CL00317,357,1,16.75,1,1,1,111,6. A punto de perderse
+CL00318,16,2,25.50,3,2,2,322,1. Campeones
+CL00319,220,4,56.00,2,3,3,233,3. Valiosos enfriandose
+CL00320,295,1,64.50,1,1,3,113,6. A punto de perderse
+CL00321,1,4,138.75,3,3,3,333,1. Campeones
+CL00322,158,1,21.00,2,1,1,211,4. Ocasionales en pausa
+CL00323,248,2,45.00,1,2,3,123,5. Valiosos en riesgo
+CL00324,160,1,35.25,2,1,2,212,4. Ocasionales en pausa
+CL00325,113,6,112.50,3,3,3,333,1. Campeones
+CL00326,178,4,75.75,2,3,3,233,3. Valiosos enfriandose
+CL00327,475,6,127.00,1,3,3,133,5. Valiosos en riesgo
+CL00328,346,2,38.50,1,2,2,122,5. Valiosos en riesgo
+CL00329,168,8,131.00,2,3,3,233,3. Valiosos enfriandose
+CL00330,152,2,45.75,2,2,3,223,3. Valiosos enfriandose
+CL00331,390,1,8.00,1,1,1,111,6. A punto de perderse
+CL00332,54,2,19.25,3,2,1,321,2. Recientes de una compra
+CL00333,62,4,79.25,3,3,3,333,1. Campeones
+CL00334,268,1,8.00,1,1,1,111,6. A punto de perderse
+CL00335,325,5,103.75,1,3,3,133,5. Valiosos en riesgo
+CL00336,37,6,94.50,3,3,3,333,1. Campeones
+CL00337,96,6,112.50,3,3,3,333,1. Campeones
+CL00338,551,1,8.00,1,1,1,111,6. A punto de perderse
+CL00339,655,2,144.00,1,2,3,123,5. Valiosos en riesgo
+CL00340,669,1,16.00,1,1,1,111,6. A punto de perderse
+CL00341,621,1,8.75,1,1,1,111,6. A punto de perderse
+CL00342,402,5,69.00,1,3,3,133,5. Valiosos en riesgo
+CL00343,70,4,137.00,3,3,3,333,1. Campeones
+CL00344,116,2,31.50,3,2,2,322,1. Campeones
+CL00345,505,2,81.25,1,2,3,123,5. Valiosos en riesgo
+CL00346,503,3,26.50,1,3,2,132,5. Valiosos en riesgo
+CL00347,137,6,73.50,2,3,3,233,3. Valiosos enfriandose
+CL00348,83,2,31.50,3,2,2,322,1. Campeones
+CL00349,288,5,149.50,1,3,3,133,5. Valiosos en riesgo
+CL00350,548,2,31.50,1,2,2,122,5. Valiosos en riesgo
+CL00351,653,3,40.25,1,3,2,132,5. Valiosos en riesgo
+CL00352,293,1,45.75,1,1,3,113,6. A punto de perderse
+CL00353,53,4,111.00,3,3,3,333,1. Campeones
+CL00354,455,5,60.50,1,3,3,133,5. Valiosos en riesgo
+CL00355,191,1,29.00,2,1,2,212,4. Ocasionales en pausa
+CL00356,77,4,52.50,3,3,3,333,1. Campeones
+CL00357,110,2,26.25,3,2,2,322,1. Campeones
+CL00358,150,2,47.50,2,2,3,223,3. Valiosos enfriandose
+CL00359,187,1,24.75,2,1,2,212,4. Ocasionales en pausa
+CL00360,440,5,89.50,1,3,3,133,5. Valiosos en riesgo
+CL00361,217,1,10.50,2,1,1,211,4. Ocasionales en pausa
+CL00362,154,1,8.00,2,1,1,211,4. Ocasionales en pausa
+CL00363,419,1,28.00,1,1,2,112,6. A punto de perderse
+CL00364,188,5,56.75,2,3,3,233,3. Valiosos enfriandose
+CL00365,128,5,73.50,2,3,3,233,3. Valiosos enfriandose
+CL00366,58,5,95.75,3,3,3,333,1. Campeones
+CL00367,37,3,64.50,3,3,3,333,1. Campeones
+CL00368,119,8,135.75,3,3,3,333,1. Campeones
+CL00369,378,1,47.75,1,1,3,113,6. A punto de perderse
+CL00370,171,8,126.00,2,3,3,233,3. Valiosos enfriandose
+CL00371,552,1,26.50,1,1,2,112,6. A punto de perderse
+CL00372,438,3,63.50,1,3,3,133,5. Valiosos en riesgo
+CL00373,703,1,21.00,1,1,1,111,6. A punto de perderse
+CL00374,345,3,91.50,1,3,3,133,5. Valiosos en riesgo
+CL00375,105,5,71.75,3,3,3,333,1. Campeones
+CL00376,118,3,47.50,3,3,3,333,1. Campeones
+CL00377,426,3,138.00,1,3,3,133,5. Valiosos en riesgo
+CL00378,495,4,68.50,1,3,3,133,5. Valiosos en riesgo
+CL00379,120,3,52.50,3,3,3,333,1. Campeones
+CL00380,13,8,132.50,3,3,3,333,1. Campeones
+CL00381,85,2,39.50,3,2,2,322,1. Campeones
+CL00382,56,4,142.50,3,3,3,333,1. Campeones
+CL00383,34,2,26.25,3,2,2,322,1. Campeones
+CL00384,394,2,46.50,1,2,3,123,5. Valiosos en riesgo
+CL00385,41,3,31.50,3,3,2,332,1. Campeones
+CL00386,229,4,110.00,2,3,3,233,3. Valiosos enfriandose
+CL00387,356,4,121.75,1,3,3,133,5. Valiosos en riesgo
+CL00388,517,5,58.50,1,3,3,133,5. Valiosos en riesgo
+CL00389,173,1,8.75,2,1,1,211,4. Ocasionales en pausa
+CL00390,509,2,31.50,1,2,2,122,5. Valiosos en riesgo
+CL00391,219,3,40.00,2,3,2,232,3. Valiosos enfriandose
+CL00392,539,1,25.50,1,1,2,112,6. A punto de perderse
+CL00393,455,2,33.50,1,2,2,122,5. Valiosos en riesgo
+CL00394,596,1,17.50,1,1,1,111,6. A punto de perderse
+CL00395,728,1,25.50,1,1,2,112,6. A punto de perderse
+CL00396,143,2,27.25,2,2,2,222,3. Valiosos enfriandose
+CL00397,170,5,95.00,2,3,3,233,3. Valiosos enfriandose
+CL00398,470,4,193.75,1,3,3,133,5. Valiosos en riesgo
+CL00399,129,2,70.50,2,2,3,223,3. Valiosos enfriandose
+CL00400,49,3,106.00,3,3,3,333,1. Campeones
+CL00401,420,1,16.00,1,1,1,111,6. A punto de perderse
+CL00402,269,2,16.00,1,2,1,121,6. A punto de perderse
+CL00403,70,3,29.00,3,3,2,332,1. Campeones
+CL00404,470,1,16.00,1,1,1,111,6. A punto de perderse
+CL00405,314,5,199.50,1,3,3,133,5. Valiosos en riesgo
+CL00406,66,3,31.50,3,3,2,332,1. Campeones
+CL00407,43,5,109.25,3,3,3,333,1. Campeones
+CL00408,610,2,19.25,1,2,1,121,6. A punto de perderse
+CL00409,583,1,10.50,1,1,1,111,6. A punto de perderse
+CL00410,572,4,83.00,1,3,3,133,5. Valiosos en riesgo
+CL00411,388,4,91.75,1,3,3,133,5. Valiosos en riesgo
+CL00412,327,2,21.00,1,2,1,121,6. A punto de perderse
+CL00413,334,5,63.00,1,3,3,133,5. Valiosos en riesgo
+CL00414,178,4,134.75,2,3,3,233,3. Valiosos enfriandose
+CL00415,343,2,63.25,1,2,3,123,5. Valiosos en riesgo
+CL00416,158,3,24.00,2,3,2,232,3. Valiosos enfriandose
+CL00417,71,2,24.00,3,2,2,322,1. Campeones
+CL00418,46,2,31.50,3,2,2,322,1. Campeones
+CL00419,47,5,66.50,3,3,3,333,1. Campeones
+CL00420,132,8,168.75,2,3,3,233,3. Valiosos enfriandose
+CL00421,610,2,58.00,1,2,3,123,5. Valiosos en riesgo
+CL00422,22,5,51.75,3,3,3,333,1. Campeones
+CL00423,89,3,76.50,3,3,3,333,1. Campeones
+CL00424,559,3,36.75,1,3,2,132,5. Valiosos en riesgo
+CL00425,163,4,40.00,2,3,2,232,3. Valiosos enfriandose
+CL00426,19,6,204.50,3,3,3,333,1. Campeones
+CL00427,146,1,10.50,2,1,1,211,4. Ocasionales en pausa
+CL00428,621,1,16.00,1,1,1,111,6. A punto de perderse
+CL00429,478,6,87.50,1,3,3,133,5. Valiosos en riesgo
+CL00430,431,4,63.00,1,3,3,133,5. Valiosos en riesgo
+CL00431,158,1,10.50,2,1,1,211,4. Ocasionales en pausa
+CL00432,227,5,101.25,2,3,3,233,3. Valiosos enfriandose
+CL00433,87,2,21.00,3,2,1,321,2. Recientes de una compra
+CL00434,146,6,131.00,2,3,3,233,3. Valiosos enfriandose
+CL00435,24,6,127.00,3,3,3,333,1. Campeones
+CL00436,331,8,112.00,1,3,3,133,5. Valiosos en riesgo
+CL00437,236,3,117.00,2,3,3,233,3. Valiosos enfriandose
+CL00438,361,2,31.50,1,2,2,122,5. Valiosos en riesgo
+CL00439,241,1,16.75,2,1,1,211,4. Ocasionales en pausa
+CL00440,307,1,8.00,1,1,1,111,6. A punto de perderse
+CL00441,67,3,130.00,3,3,3,333,1. Campeones
+CL00442,481,1,8.00,1,1,1,111,6. A punto de perderse
+CL00443,39,2,35.25,3,2,2,322,1. Campeones
+CL00444,189,4,42.00,2,3,2,232,3. Valiosos enfriandose
+CL00445,340,1,47.75,1,1,3,113,6. A punto de perderse
+CL00446,279,2,70.50,1,2,3,123,5. Valiosos en riesgo
+CL00447,20,3,40.00,3,3,2,332,1. Campeones
+CL00448,365,3,53.00,1,3,3,133,5. Valiosos en riesgo
+CL00449,358,4,137.50,1,3,3,133,5. Valiosos en riesgo
+CL00450,205,1,16.75,2,1,1,211,4. Ocasionales en pausa
+CL00451,377,4,71.00,1,3,3,133,5. Valiosos en riesgo
+CL00452,205,1,16.75,2,1,1,211,4. Ocasionales en pausa
+CL00453,426,3,45.50,1,3,3,133,5. Valiosos en riesgo
+CL00454,65,3,120.25,3,3,3,333,1. Campeones
+CL00455,563,1,16.00,1,1,1,111,6. A punto de perderse
+CL00456,191,4,118.00,2,3,3,233,3. Valiosos enfriandose
+CL00457,627,1,27.25,1,1,2,112,6. A punto de perderse
+CL00458,376,1,49.50,1,1,3,113,6. A punto de perderse
+CL00459,340,2,31.50,1,2,2,122,5. Valiosos en riesgo
+CL00460,54,2,45.00,3,2,3,323,1. Campeones
+CL00461,514,1,10.50,1,1,1,111,6. A punto de perderse
+CL00462,24,4,58.00,3,3,3,333,1. Campeones
+CL00463,507,1,21.00,1,1,1,111,6. A punto de perderse
+CL00464,455,1,10.50,1,1,1,111,6. A punto de perderse
+CL00465,596,1,18.50,1,1,1,111,6. A punto de perderse
+CL00466,20,2,86.50,3,2,3,323,1. Campeones
+CL00467,138,1,26.50,2,1,2,212,4. Ocasionales en pausa
+CL00468,451,2,79.75,1,2,3,123,5. Valiosos en riesgo
+CL00469,538,1,8.00,1,1,1,111,6. A punto de perderse
+CL00470,421,4,63.00,1,3,3,133,5. Valiosos en riesgo
+CL00471,305,3,56.00,1,3,3,133,5. Valiosos en riesgo
+CL00472,462,3,52.50,1,3,3,133,5. Valiosos en riesgo
+CL00473,64,2,66.00,3,2,3,323,1. Campeones
+CL00474,187,2,40.75,2,2,2,222,3. Valiosos enfriandose
+CL00475,82,2,60.00,3,2,3,323,1. Campeones
+CL00476,210,4,48.00,2,3,3,233,3. Valiosos enfriandose
+CL00477,296,2,27.25,1,2,2,122,5. Valiosos en riesgo
+CL00478,103,4,63.00,3,3,3,333,1. Campeones
+CL00479,22,7,105.00,3,3,3,333,1. Campeones
+CL00480,79,2,60.00,3,2,3,323,1. Campeones
+CL00481,190,5,63.00,2,3,3,233,3. Valiosos enfriandose
+CL00482,117,2,94.25,3,2,3,323,1. Campeones
+CL00483,513,3,57.75,1,3,3,133,5. Valiosos en riesgo
+CL00484,373,3,70.50,1,3,3,133,5. Valiosos en riesgo
+CL00485,23,3,46.50,3,3,3,333,1. Campeones
+CL00486,195,1,33.50,2,1,2,212,4. Ocasionales en pausa
+CL00487,260,1,8.75,1,1,1,111,6. A punto de perderse
+CL00488,442,1,8.00,1,1,1,111,6. A punto de perderse
+CL00489,474,1,18.50,1,1,1,111,6. A punto de perderse
+CL00490,46,4,109.00,3,3,3,333,1. Campeones
+CL00491,105,8,177.00,3,3,3,333,1. Campeones
+CL00492,121,3,59.75,2,3,3,233,3. Valiosos enfriandose
+CL00493,71,4,66.50,3,3,3,333,1. Campeones
+CL00494,458,1,47.00,1,1,3,113,6. A punto de perderse
+CL00495,552,3,32.75,1,3,2,132,5. Valiosos en riesgo
+CL00496,337,2,36.75,1,2,2,122,5. Valiosos en riesgo
+CL00497,383,3,80.50,1,3,3,133,5. Valiosos en riesgo
+CL00498,273,6,103.00,1,3,3,133,5. Valiosos en riesgo
+CL00499,415,1,8.00,1,1,1,111,6. A punto de perderse
+CL00500,22,5,95.00,3,3,3,333,1. Campeones
+CL00501,74,6,72.75,3,3,3,333,1. Campeones
+CL00502,523,1,16.75,1,1,1,111,6. A punto de perderse
+CL00503,258,2,33.50,1,2,2,122,5. Valiosos en riesgo
+CL00504,54,5,103.00,3,3,3,333,1. Campeones
+CL00505,97,2,24.75,3,2,2,322,1. Campeones
+CL00506,375,3,76.50,1,3,3,133,5. Valiosos en riesgo
+CL00507,361,8,120.75,1,3,3,133,5. Valiosos en riesgo
+CL00508,216,1,8.75,2,1,1,211,4. Ocasionales en pausa
+CL00509,71,5,121.00,3,3,3,333,1. Campeones
+CL00510,501,1,10.50,1,1,1,111,6. A punto de perderse
+CL00511,618,3,24.00,1,3,2,132,5. Valiosos en riesgo
+CL00512,133,1,16.75,2,1,1,211,4. Ocasionales en pausa
+CL00513,311,3,113.00,1,3,3,133,5. Valiosos en riesgo
+CL00514,186,2,16.00,2,2,1,221,4. Ocasionales en pausa
+CL00515,16,2,81.75,3,2,3,323,1. Campeones
+CL00516,359,1,21.00,1,1,1,111,6. A punto de perderse
+CL00517,303,5,170.50,1,3,3,133,5. Valiosos en riesgo
+CL00518,155,1,46.50,2,1,3,213,4. Ocasionales en pausa
+CL00519,422,1,27.25,1,1,2,112,6. A punto de perderse
+CL00520,68,4,48.00,3,3,3,333,1. Campeones
+CL00521,211,2,60.00,2,2,3,223,3. Valiosos enfriandose
+CL00522,357,3,42.00,1,3,2,132,5. Valiosos en riesgo
+CL00523,252,3,65.00,1,3,3,133,5. Valiosos en riesgo
+CL00524,558,1,8.75,1,1,1,111,6. A punto de perderse
+CL00525,480,4,53.50,1,3,3,133,5. Valiosos en riesgo
+CL00526,693,1,10.50,1,1,1,111,6. A punto de perderse
+CL00527,486,2,109.50,1,2,3,123,5. Valiosos en riesgo
+CL00528,680,2,62.50,1,2,3,123,5. Valiosos en riesgo
+CL00529,162,3,69.50,2,3,3,233,3. Valiosos enfriandose
+CL00530,167,2,16.75,2,2,1,221,4. Ocasionales en pausa
+CL00531,502,1,36.00,1,1,2,112,6. A punto de perderse
+CL00532,77,5,86.00,3,3,3,333,1. Campeones
+CL00533,614,2,50.25,1,2,3,123,5. Valiosos en riesgo
+CL00534,360,2,33.50,1,2,2,122,5. Valiosos en riesgo
+CL00535,81,4,86.25,3,3,3,333,1. Campeones
+CL00536,263,5,68.50,1,3,3,133,5. Valiosos en riesgo
+CL00537,473,2,50.25,1,2,3,123,5. Valiosos en riesgo
+CL00538,504,4,71.00,1,3,3,133,5. Valiosos en riesgo
+CL00539,110,2,21.00,3,2,1,321,2. Recientes de una compra
+CL00540,155,2,31.50,2,2,2,222,3. Valiosos enfriandose
+CL00541,166,5,158.75,2,3,3,233,3. Valiosos enfriandose
+CL00542,222,4,66.50,2,3,3,233,3. Valiosos enfriandose
+CL00543,235,1,18.50,2,1,1,211,4. Ocasionales en pausa
+CL00544,411,2,21.00,1,2,1,121,6. A punto de perderse
+CL00545,108,4,43.75,3,3,3,333,1. Campeones
+CL00546,137,1,21.00,2,1,1,211,4. Ocasionales en pausa
+CL00547,47,8,105.00,3,3,3,333,1. Campeones
+CL00548,457,6,71.75,1,3,3,133,5. Valiosos en riesgo
+CL00549,70,6,122.50,3,3,3,333,1. Campeones
+CL00550,291,2,37.00,1,2,2,122,5. Valiosos en riesgo
+CL00551,450,4,63.00,1,3,3,133,5. Valiosos en riesgo
+CL00552,638,1,16.00,1,1,1,111,6. A punto de perderse
+CL00553,564,4,110.00,1,3,3,133,5. Valiosos en riesgo
+CL00554,391,1,55.75,1,1,3,113,6. A punto de perderse
+CL00555,50,3,50.25,3,3,3,333,1. Campeones
+CL00556,277,2,28.00,1,2,2,122,5. Valiosos en riesgo
+CL00557,574,1,27.25,1,1,2,112,6. A punto de perderse
+CL00558,241,1,21.00,2,1,1,211,4. Ocasionales en pausa
+CL00559,44,4,91.50,3,3,3,333,1. Campeones
+CL00560,166,1,16.00,2,1,1,211,4. Ocasionales en pausa
+CL00561,250,2,72.00,1,2,3,123,5. Valiosos en riesgo
+CL00562,110,2,29.00,3,2,2,322,1. Campeones
+CL00563,15,5,142.00,3,3,3,333,1. Campeones
+CL00564,12,3,24.00,3,3,2,332,1. Campeones
+CL00565,41,2,27.25,3,2,2,322,1. Campeones
+CL00566,68,6,85.00,3,3,3,333,1. Campeones
+CL00567,11,5,71.00,3,3,3,333,1. Campeones
+CL00568,292,2,109.50,1,2,3,123,5. Valiosos en riesgo
+CL00569,529,1,8.00,1,1,1,111,6. A punto de perderse
+CL00570,222,2,63.00,2,2,3,223,3. Valiosos enfriandose
+CL00571,201,8,187.00,2,3,3,233,3. Valiosos enfriandose
+CL00572,143,1,28.00,2,1,2,212,4. Ocasionales en pausa
+CL00573,102,3,61.25,3,3,3,333,1. Campeones
+CL00574,419,5,168.50,1,3,3,133,5. Valiosos en riesgo
+CL00575,360,3,109.50,1,3,3,133,5. Valiosos en riesgo
+CL00576,20,2,45.00,3,2,3,323,1. Campeones
+CL00577,12,3,42.00,3,3,2,332,1. Campeones
+CL00578,150,1,16.00,2,1,1,211,4. Ocasionales en pausa
+CL00579,404,2,42.00,1,2,2,122,5. Valiosos en riesgo
+CL00580,155,8,163.25,2,3,3,233,3. Valiosos enfriandose
+CL00581,441,1,16.00,1,1,1,111,6. A punto de perderse
+CL00582,40,2,41.50,3,2,2,322,1. Campeones
+CL00583,511,5,141.00,1,3,3,133,5. Valiosos en riesgo
+CL00584,129,4,63.00,2,3,3,233,3. Valiosos enfriandose
+CL00585,203,1,10.50,2,1,1,211,4. Ocasionales en pausa
+CL00586,185,2,41.50,2,2,2,222,3. Valiosos enfriandose
+CL00587,561,1,8.00,1,1,1,111,6. A punto de perderse
+CL00588,137,4,140.25,2,3,3,233,3. Valiosos enfriandose
+CL00589,627,4,113.25,1,3,3,133,5. Valiosos en riesgo
+CL00590,81,5,160.25,3,3,3,333,1. Campeones
+CL00591,479,3,42.00,1,3,2,132,5. Valiosos en riesgo
+CL00592,223,3,24.00,2,3,2,232,3. Valiosos enfriandose
+CL00593,302,4,72.25,1,3,3,133,5. Valiosos en riesgo
+CL00594,267,1,10.50,1,1,1,111,6. A punto de perderse
+CL00595,245,4,133.00,1,3,3,133,5. Valiosos en riesgo
+CL00596,69,6,73.50,3,3,3,333,1. Campeones
+CL00597,403,2,44.75,1,2,3,123,5. Valiosos en riesgo
+CL00598,68,2,60.00,3,2,3,323,1. Campeones
+CL00599,579,5,108.50,1,3,3,133,5. Valiosos en riesgo
+CL00600,174,1,8.00,2,1,1,211,4. Ocasionales en pausa
+CL00601,425,2,76.00,1,2,3,123,5. Valiosos en riesgo
+CL00602,48,8,235.50,3,3,3,333,1. Campeones
+CL00603,147,2,16.00,2,2,1,221,4. Ocasionales en pausa
+CL00604,550,3,53.50,1,3,3,133,5. Valiosos en riesgo
+CL00605,373,4,103.00,1,3,3,133,5. Valiosos en riesgo
+CL00606,40,2,59.00,3,2,3,323,1. Campeones
+CL00607,59,4,95.75,3,3,3,333,1. Campeones
+CL00608,324,1,26.50,1,1,2,112,6. A punto de perderse
+CL00609,29,4,78.50,3,3,3,333,1. Campeones
+CL00610,407,1,36.00,1,1,2,112,6. A punto de perderse
+CL00611,581,1,16.75,1,1,1,111,6. A punto de perderse
+CL00612,64,4,61.25,3,3,3,333,1. Campeones
+CL00613,614,1,10.50,1,1,1,111,6. A punto de perderse
+CL00614,28,3,42.00,3,3,2,332,1. Campeones
+CL00615,205,2,16.00,2,2,1,221,4. Ocasionales en pausa
+CL00616,678,1,19.25,1,1,1,111,6. A punto de perderse
+CL00617,143,1,16.75,2,1,1,211,4. Ocasionales en pausa
+CL00618,36,8,178.00,3,3,3,333,1. Campeones
+CL00619,269,8,111.25,1,3,3,133,5. Valiosos en riesgo
+CL00620,499,3,26.25,1,3,2,132,5. Valiosos en riesgo
+CL00621,411,5,126.00,1,3,3,133,5. Valiosos en riesgo
+CL00622,322,5,106.75,1,3,3,133,5. Valiosos en riesgo
+CL00623,246,4,128.50,1,3,3,133,5. Valiosos en riesgo
+CL00624,289,6,126.75,1,3,3,133,5. Valiosos en riesgo
+CL00625,2,4,121.25,3,3,3,333,1. Campeones
+CL00626,222,4,50.00,2,3,3,233,3. Valiosos enfriandose
+CL00627,158,1,16.75,2,1,1,211,4. Ocasionales en pausa
+CL00628,328,1,16.75,1,1,1,111,6. A punto de perderse
+CL00629,25,4,67.50,3,3,3,333,1. Campeones
+CL00630,287,4,81.00,1,3,3,133,5. Valiosos en riesgo
+CL00631,102,3,101.00,3,3,3,333,1. Campeones
+CL00632,652,3,59.50,1,3,3,133,5. Valiosos en riesgo
+CL00633,433,1,19.25,1,1,1,111,6. A punto de perderse
+CL00634,428,1,8.00,1,1,1,111,6. A punto de perderse
+CL00635,194,8,224.00,2,3,3,233,3. Valiosos enfriandose
+CL00636,34,4,40.00,3,3,2,332,1. Campeones
+CL00637,92,5,119.75,3,3,3,333,1. Campeones
+CL00638,345,1,8.75,1,1,1,111,6. A punto de perderse
+CL00639,137,4,63.00,2,3,3,233,3. Valiosos enfriandose
+CL00640,46,5,85.25,3,3,3,333,1. Campeones
+CL00641,287,5,64.00,1,3,3,133,5. Valiosos en riesgo
+CL00642,130,2,39.50,2,2,2,222,3. Valiosos enfriandose
+CL00643,514,1,10.50,1,1,1,111,6. A punto de perderse
+CL00644,357,2,24.00,1,2,2,122,5. Valiosos en riesgo
+CL00645,461,2,38.50,1,2,2,122,5. Valiosos en riesgo
+CL00646,340,4,206.75,1,3,3,133,5. Valiosos en riesgo
+CL00647,37,4,82.00,3,3,3,333,1. Campeones
+CL00648,612,1,33.50,1,1,2,112,6. A punto de perderse
+CL00649,36,4,79.75,3,3,3,333,1. Campeones
+CL00650,279,1,45.75,1,1,3,113,6. A punto de perderse
+CL00651,674,2,16.00,1,2,1,121,6. A punto de perderse
+CL00652,493,2,60.00,1,2,3,123,5. Valiosos en riesgo
+CL00653,321,1,16.75,1,1,1,111,6. A punto de perderse
+CL00654,303,1,18.50,1,1,1,111,6. A punto de perderse
+CL00655,605,1,10.50,1,1,1,111,6. A punto de perderse
+CL00656,177,8,92.00,2,3,3,233,3. Valiosos enfriandose
+CL00657,608,3,90.25,1,3,3,133,5. Valiosos en riesgo
+CL00658,198,2,89.25,2,2,3,223,3. Valiosos enfriandose
+CL00659,12,2,66.25,3,2,3,323,1. Campeones
+CL00660,261,4,82.75,1,3,3,133,5. Valiosos en riesgo
+CL00661,388,4,48.75,1,3,3,133,5. Valiosos en riesgo
+CL00662,73,5,119.50,3,3,3,333,1. Campeones
+CL00663,52,2,33.50,3,2,2,322,1. Campeones
+CL00664,313,3,52.50,1,3,3,133,5. Valiosos en riesgo
+CL00665,244,3,82.00,1,3,3,133,5. Valiosos en riesgo
+CL00666,148,4,61.00,2,3,3,233,3. Valiosos enfriandose
+CL00667,460,2,101.50,1,2,3,123,5. Valiosos en riesgo
+CL00668,481,6,129.25,1,3,3,133,5. Valiosos en riesgo
+CL00669,368,1,8.00,1,1,1,111,6. A punto de perderse
+CL00670,13,4,63.00,3,3,3,333,1. Campeones
+CL00671,160,5,86.50,2,3,3,233,3. Valiosos enfriandose
+CL00672,329,1,10.50,1,1,1,111,6. A punto de perderse
+CL00673,163,2,60.00,2,2,3,223,3. Valiosos enfriandose
+CL00674,48,5,80.50,3,3,3,333,1. Campeones
+CL00675,60,2,36.00,3,2,2,322,1. Campeones
+CL00676,539,1,8.75,1,1,1,111,6. A punto de perderse
+CL00677,86,3,67.00,3,3,3,333,1. Campeones
+CL00678,143,5,230.50,2,3,3,233,3. Valiosos enfriandose
+CL00679,27,6,176.50,3,3,3,333,1. Campeones
+CL00680,718,1,16.00,1,1,1,111,6. A punto de perderse
+CL00681,87,8,98.25,3,3,3,333,1. Campeones
+CL00682,13,8,281.25,3,3,3,333,1. Campeones
+CL00683,203,2,46.50,2,2,3,223,3. Valiosos enfriandose
+CL00684,296,4,42.00,1,3,2,132,5. Valiosos en riesgo
+CL00685,247,2,31.50,1,2,2,122,5. Valiosos en riesgo
+CL00686,74,3,52.50,3,3,3,333,1. Campeones
+CL00687,165,6,127.00,2,3,3,233,3. Valiosos enfriandose
+CL00688,355,4,92.50,1,3,3,133,5. Valiosos en riesgo
+CL00689,517,5,64.75,1,3,3,133,5. Valiosos en riesgo
+CL00690,157,1,21.00,2,1,1,211,4. Ocasionales en pausa
+CL00691,216,2,26.25,2,2,2,222,3. Valiosos enfriandose
+CL00692,95,3,192.50,3,3,3,333,1. Campeones
+CL00693,506,8,255.75,1,3,3,133,5. Valiosos en riesgo
+CL00694,377,6,114.25,1,3,3,133,5. Valiosos en riesgo
+CL00695,320,1,68.00,1,1,3,113,6. A punto de perderse
+CL00696,603,2,65.00,1,2,3,123,5. Valiosos en riesgo
+CL00697,448,6,124.25,1,3,3,133,5. Valiosos en riesgo
+CL00698,308,3,43.75,1,3,3,133,5. Valiosos en riesgo
+CL00699,222,1,33.50,2,1,2,212,4. Ocasionales en pausa
+CL00700,143,3,42.00,2,3,2,232,3. Valiosos enfriandose
+CL00701,169,1,18.50,2,1,1,211,4. Ocasionales en pausa
+CL00702,417,2,66.00,1,2,3,123,5. Valiosos en riesgo
+CL00703,283,6,142.50,1,3,3,133,5. Valiosos en riesgo
+CL00704,66,2,79.25,3,2,3,323,1. Campeones
+CL00705,486,3,37.00,1,3,2,132,5. Valiosos en riesgo
+CL00706,330,1,49.50,1,1,3,113,6. A punto de perderse
+CL00707,127,6,71.00,2,3,3,233,3. Valiosos enfriandose
+CL00708,369,3,83.75,1,3,3,133,5. Valiosos en riesgo
+CL00709,548,1,21.00,1,1,1,111,6. A punto de perderse
+CL00710,236,1,16.75,2,1,1,211,4. Ocasionales en pausa
+CL00711,88,3,81.00,3,3,3,333,1. Campeones
+CL00712,14,2,32.75,3,2,2,322,1. Campeones
+CL00713,69,8,321.25,3,3,3,333,1. Campeones
+CL00714,6,6,66.50,3,3,3,333,1. Campeones
+CL00715,327,1,8.00,1,1,1,111,6. A punto de perderse
+CL00716,88,2,27.25,3,2,2,322,1. Campeones
+CL00717,144,1,8.75,2,1,1,211,4. Ocasionales en pausa
+CL00718,245,2,36.00,1,2,2,122,5. Valiosos en riesgo
+CL00719,590,1,24.75,1,1,2,112,6. A punto de perderse
+CL00720,1,3,52.50,3,3,3,333,1. Campeones
+CL00721,207,1,8.00,2,1,1,211,4. Ocasionales en pausa
+CL00722,51,5,146.75,3,3,3,333,1. Campeones
+CL00723,155,5,110.00,2,3,3,233,3. Valiosos enfriandose
+CL00724,484,2,24.00,1,2,2,122,5. Valiosos en riesgo
+CL00725,240,1,24.75,2,1,2,212,4. Ocasionales en pausa
+CL00726,291,3,42.00,1,3,2,132,5. Valiosos en riesgo
+CL00727,103,4,155.00,3,3,3,333,1. Campeones
+CL00728,361,3,105.00,1,3,3,133,5. Valiosos en riesgo
+CL00729,616,1,24.75,1,1,2,112,6. A punto de perderse
+CL00730,645,2,71.00,1,2,3,123,5. Valiosos en riesgo
+CL00731,0,4,142.75,3,3,3,333,1. Campeones
+CL00732,139,2,36.00,2,2,2,222,3. Valiosos enfriandose
+CL00733,452,6,48.00,1,3,3,133,5. Valiosos en riesgo
+CL00734,21,4,52.50,3,3,3,333,1. Campeones
+CL00735,105,3,45.00,3,3,3,333,1. Campeones
+CL00736,148,1,21.00,2,1,1,211,4. Ocasionales en pausa
+CL00737,25,2,21.00,3,2,1,321,2. Recientes de una compra
+CL00738,396,3,66.25,1,3,3,133,5. Valiosos en riesgo
+CL00739,68,3,76.50,3,3,3,333,1. Campeones
+CL00740,110,2,32.00,3,2,2,322,1. Campeones
+CL00741,673,1,29.00,1,1,2,112,6. A punto de perderse
+CL00742,172,5,75.50,2,3,3,233,3. Valiosos enfriandose
+CL00743,593,1,29.00,1,1,2,112,6. A punto de perderse
+CL00744,412,8,134.00,1,3,3,133,5. Valiosos en riesgo
+CL00745,31,6,132.00,3,3,3,333,1. Campeones
+CL00746,639,1,24.75,1,1,2,112,6. A punto de perderse
+CL00747,588,2,32.75,1,2,2,122,5. Valiosos en riesgo
+CL00748,17,5,81.00,3,3,3,333,1. Campeones
+CL00749,187,6,141.25,2,3,3,233,3. Valiosos enfriandose
+CL00750,245,4,134.00,1,3,3,133,5. Valiosos en riesgo
+CL00751,122,2,24.00,2,2,2,222,3. Valiosos enfriandose
+CL00752,37,3,79.25,3,3,3,333,1. Campeones
+CL00753,27,6,101.50,3,3,3,333,1. Campeones
+CL00754,413,1,21.00,1,1,1,111,6. A punto de perderse
+CL00755,96,4,61.25,3,3,3,333,1. Campeones
+CL00756,614,1,21.00,1,1,1,111,6. A punto de perderse
+CL00757,254,8,98.25,1,3,3,133,5. Valiosos en riesgo
+CL00758,137,1,35.25,2,1,2,212,4. Ocasionales en pausa
+CL00759,466,3,37.75,1,3,2,132,5. Valiosos en riesgo
+CL00760,465,1,16.00,1,1,1,111,6. A punto de perderse
+CL00761,292,8,253.50,1,3,3,133,5. Valiosos en riesgo
+CL00762,248,1,60.00,1,1,3,113,6. A punto de perderse
+CL00763,97,4,118.75,3,3,3,333,1. Campeones
+CL00764,90,3,76.50,3,3,3,333,1. Campeones
+CL00765,259,3,108.25,1,3,3,133,5. Valiosos en riesgo
+CL00766,447,1,16.75,1,1,1,111,6. A punto de perderse
+CL00767,114,2,110.00,3,2,3,323,1. Campeones
+CL00768,155,4,40.75,2,3,2,232,3. Valiosos enfriandose
+CL00769,207,6,116.75,2,3,3,233,3. Valiosos enfriandose
+CL00770,8,5,78.00,3,3,3,333,1. Campeones
+CL00771,276,2,57.50,1,2,3,123,5. Valiosos en riesgo
+CL00772,329,5,110.25,1,3,3,133,5. Valiosos en riesgo
+CL00773,243,2,24.00,2,2,2,222,3. Valiosos enfriandose
+CL00774,238,5,127.75,2,3,3,233,3. Valiosos enfriandose
+CL00775,500,5,119.75,1,3,3,133,5. Valiosos en riesgo
+CL00776,158,3,52.50,2,3,3,233,3. Valiosos enfriandose
+CL00777,446,2,34.25,1,2,2,122,5. Valiosos en riesgo
+CL00778,615,1,17.50,1,1,1,111,6. A punto de perderse
+CL00779,272,3,35.00,1,3,2,132,5. Valiosos en riesgo
+CL00780,640,1,16.75,1,1,1,111,6. A punto de perderse
+CL00781,6,2,16.75,3,2,1,321,2. Recientes de una compra
+CL00782,340,1,24.75,1,1,2,112,6. A punto de perderse
+CL00783,478,3,63.50,1,3,3,133,5. Valiosos en riesgo
+CL00784,265,1,63.75,1,1,3,113,6. A punto de perderse
+CL00785,43,2,24.00,3,2,2,322,1. Campeones
+CL00786,150,2,54.50,2,2,3,223,3. Valiosos enfriandose
+CL00787,317,2,74.25,1,2,3,123,5. Valiosos en riesgo
+CL00788,282,4,112.50,1,3,3,133,5. Valiosos en riesgo
+CL00789,263,3,70.50,1,3,3,133,5. Valiosos en riesgo
+CL00790,442,5,229.00,1,3,3,133,5. Valiosos en riesgo
+CL00791,340,1,17.50,1,1,1,111,6. A punto de perderse
+CL00792,171,3,34.25,2,3,2,232,3. Valiosos enfriandose
+CL00793,113,5,70.00,3,3,3,333,1. Campeones
+CL00794,540,2,16.00,1,2,1,121,6. A punto de perderse
+CL00795,339,3,42.00,1,3,2,132,5. Valiosos en riesgo
+CL00796,374,2,16.00,1,2,1,121,6. A punto de perderse
+CL00797,327,3,65.25,1,3,3,133,5. Valiosos en riesgo
+CL00798,133,4,89.00,2,3,3,233,3. Valiosos enfriandose
+CL00799,624,2,31.50,1,2,2,122,5. Valiosos en riesgo
+CL00800,390,1,16.00,1,1,1,111,6. A punto de perderse
+CL00801,54,3,88.00,3,3,3,333,1. Campeones
+CL00802,63,4,80.00,3,3,3,333,1. Campeones
+CL00803,345,3,56.25,1,3,3,133,5. Valiosos en riesgo
+CL00804,559,3,70.50,1,3,3,133,5. Valiosos en riesgo
+CL00805,403,1,16.00,1,1,1,111,6. A punto de perderse
+CL00806,83,4,52.50,3,3,3,333,1. Campeones
+CL00807,644,1,8.75,1,1,1,111,6. A punto de perderse
+CL00808,381,8,139.75,1,3,3,133,5. Valiosos en riesgo
+CL00809,252,1,29.00,1,1,2,112,6. A punto de perderse
+CL00810,195,6,111.00,2,3,3,233,3. Valiosos enfriandose
+CL00811,32,3,82.00,3,3,3,333,1. Campeones
+CL00812,576,5,163.50,1,3,3,133,5. Valiosos en riesgo
+CL00813,312,4,78.25,1,3,3,133,5. Valiosos en riesgo
+CL00814,158,1,16.00,2,1,1,211,4. Ocasionales en pausa
+CL00815,580,2,41.50,1,2,2,122,5. Valiosos en riesgo
+CL00816,516,3,81.00,1,3,3,133,5. Valiosos en riesgo
+CL00817,424,1,16.75,1,1,1,111,6. A punto de perderse
+CL00818,638,1,25.50,1,1,2,112,6. A punto de perderse
+CL00819,258,2,41.50,1,2,2,122,5. Valiosos en riesgo
+CL00820,442,3,46.50,1,3,3,133,5. Valiosos en riesgo
+CL00821,656,2,42.00,1,2,2,122,5. Valiosos en riesgo
+CL00822,285,4,83.00,1,3,3,133,5. Valiosos en riesgo
+CL00823,148,2,75.50,2,2,3,223,3. Valiosos enfriandose
+CL00824,143,1,10.50,2,1,1,211,4. Ocasionales en pausa
+CL00825,118,3,66.00,3,3,3,333,1. Campeones
+CL00826,546,2,16.00,1,2,1,121,6. A punto de perderse
+CL00827,242,2,84.00,2,2,3,223,3. Valiosos enfriandose
+CL00828,50,4,56.75,3,3,3,333,1. Campeones
+CL00829,327,2,24.00,1,2,2,122,5. Valiosos en riesgo
+CL00830,396,1,33.50,1,1,2,112,6. A punto de perderse
+CL00831,479,1,29.75,1,1,2,112,6. A punto de perderse
+CL00832,7,3,50.25,3,3,3,333,1. Campeones
+CL00833,246,4,63.00,1,3,3,133,5. Valiosos en riesgo
+CL00834,363,1,29.00,1,1,2,112,6. A punto de perderse
+CL00835,622,4,40.75,1,3,2,132,5. Valiosos en riesgo
+CL00836,498,2,42.25,1,2,2,122,5. Valiosos en riesgo
+CL00837,401,3,84.75,1,3,3,133,5. Valiosos en riesgo
+CL00838,332,1,10.50,1,1,1,111,6. A punto de perderse
+CL00839,661,2,42.00,1,2,2,122,5. Valiosos en riesgo
+CL00840,224,4,138.00,2,3,3,233,3. Valiosos enfriandose
+CL00841,346,2,32.00,1,2,2,122,5. Valiosos en riesgo
+CL00842,232,8,335.25,2,3,3,233,3. Valiosos enfriandose
+CL00843,599,1,37.00,1,1,2,112,6. A punto de perderse
+CL00844,243,2,26.25,2,2,2,222,3. Valiosos enfriandose
+CL00845,308,1,8.00,1,1,1,111,6. A punto de perderse
+CL00846,720,1,27.25,1,1,2,112,6. A punto de perderse
+CL00847,46,3,24.00,3,3,2,332,1. Campeones
+CL00848,158,8,163.25,2,3,3,233,3. Valiosos enfriandose
+CL00849,374,5,73.50,1,3,3,133,5. Valiosos en riesgo
+CL00850,41,7,206.75,3,3,3,333,1. Campeones
+CL00851,523,4,113.75,1,3,3,133,5. Valiosos en riesgo
+CL00852,178,3,49.50,2,3,3,233,3. Valiosos enfriandose
+CL00853,179,1,8.00,2,1,1,211,4. Ocasionales en pausa
+CL00854,247,2,42.00,1,2,2,122,5. Valiosos en riesgo
+CL00855,441,2,31.50,1,2,2,122,5. Valiosos en riesgo
+CL00856,114,2,60.00,3,2,3,323,1. Campeones
+CL00857,509,3,32.00,1,3,2,132,5. Valiosos en riesgo
+CL00858,44,5,116.25,3,3,3,333,1. Campeones
+CL00859,20,3,32.00,3,3,2,332,1. Campeones
+CL00860,413,5,141.00,1,3,3,133,5. Valiosos en riesgo
+CL00861,122,2,54.50,2,2,3,223,3. Valiosos enfriandose
+CL00862,97,4,109.00,3,3,3,333,1. Campeones
+CL00863,649,2,37.00,1,2,2,122,5. Valiosos en riesgo
+CL00864,414,1,68.00,1,1,3,113,6. A punto de perderse
+CL00865,168,1,17.50,2,1,1,211,4. Ocasionales en pausa
+CL00866,122,2,97.00,2,2,3,223,3. Valiosos enfriandose
+CL00867,118,4,97.75,3,3,3,333,1. Campeones
+CL00868,399,3,73.50,1,3,3,133,5. Valiosos en riesgo
+CL00869,73,4,80.50,3,3,3,333,1. Campeones
+CL00870,486,1,10.50,1,1,1,111,6. A punto de perderse
+CL00871,456,1,49.50,1,1,3,113,6. A punto de perderse
+CL00872,624,1,16.00,1,1,1,111,6. A punto de perderse
+CL00873,417,2,84.00,1,2,3,123,5. Valiosos en riesgo
+CL00874,32,4,36.75,3,3,2,332,1. Campeones
+CL00875,541,4,92.50,1,3,3,133,5. Valiosos en riesgo
+CL00876,167,2,27.25,2,2,2,222,3. Valiosos enfriandose
+CL00877,49,4,84.50,3,3,3,333,1. Campeones
+CL00878,184,6,111.00,2,3,3,233,3. Valiosos enfriandose
+CL00879,19,4,63.00,3,3,3,333,1. Campeones
+CL00880,255,3,26.50,1,3,2,132,5. Valiosos en riesgo
+CL00881,270,5,124.25,1,3,3,133,5. Valiosos en riesgo
+CL00882,582,3,31.50,1,3,2,132,5. Valiosos en riesgo
+CL00883,338,3,68.75,1,3,3,133,5. Valiosos en riesgo
+CL00884,228,8,222.50,2,3,3,233,3. Valiosos enfriandose
+CL00885,621,3,54.50,1,3,3,133,5. Valiosos en riesgo
+CL00886,69,2,63.25,3,2,3,323,1. Campeones
+CL00887,550,1,8.00,1,1,1,111,6. A punto de perderse
+CL00888,402,2,16.00,1,2,1,121,6. A punto de perderse
+CL00889,287,6,153.00,1,3,3,133,5. Valiosos en riesgo
+CL00890,11,6,151.25,3,3,3,333,1. Campeones
+CL00891,16,4,48.25,3,3,3,333,1. Campeones
+CL00892,571,1,10.50,1,1,1,111,6. A punto de perderse
+CL00893,78,6,164.00,3,3,3,333,1. Campeones
+CL00894,547,3,50.25,1,3,3,133,5. Valiosos en riesgo
+CL00895,487,2,44.00,1,2,3,123,5. Valiosos en riesgo
+CL00896,217,3,56.00,2,3,3,233,3. Valiosos enfriandose
+CL00897,379,5,82.00,1,3,3,133,5. Valiosos en riesgo
+CL00898,500,1,10.50,1,1,1,111,6. A punto de perderse
+CL00899,621,3,34.50,1,3,2,132,5. Valiosos en riesgo
+CL00900,61,3,75.75,3,3,3,333,1. Campeones
+CL00901,258,2,73.50,1,2,3,123,5. Valiosos en riesgo
+CL00902,406,1,18.50,1,1,1,111,6. A punto de perderse
+CL00903,540,2,47.50,1,2,3,123,5. Valiosos en riesgo
+CL00904,410,6,163.00,1,3,3,133,5. Valiosos en riesgo
+CL00905,334,5,99.50,1,3,3,133,5. Valiosos en riesgo
+CL00906,219,1,18.50,2,1,1,211,4. Ocasionales en pausa
+CL00907,28,2,45.00,3,2,3,323,1. Campeones
+CL00908,70,4,43.75,3,3,3,333,1. Campeones
+CL00909,197,1,8.75,2,1,1,211,4. Ocasionales en pausa
+CL00910,123,2,59.50,2,2,3,223,3. Valiosos enfriandose
+CL00911,582,1,10.50,1,1,1,111,6. A punto de perderse
+CL00912,278,5,120.50,1,3,3,133,5. Valiosos en riesgo
+CL00913,143,1,37.75,2,1,2,212,4. Ocasionales en pausa
+CL00914,689,1,8.00,1,1,1,111,6. A punto de perderse
+CL00915,274,1,8.75,1,1,1,111,6. A punto de perderse
+CL00916,488,1,8.00,1,1,1,111,6. A punto de perderse
+CL00917,314,4,87.25,1,3,3,133,5. Valiosos en riesgo
+CL00918,576,2,35.25,1,2,2,122,5. Valiosos en riesgo
+CL00919,19,5,51.75,3,3,3,333,1. Campeones
+CL00920,273,3,76.00,1,3,3,133,5. Valiosos en riesgo
+CL00921,516,5,104.00,1,3,3,133,5. Valiosos en riesgo
+CL00922,77,6,128.50,3,3,3,333,1. Campeones
+CL00923,386,6,109.50,1,3,3,133,5. Valiosos en riesgo
+CL00924,564,1,35.25,1,1,2,112,6. A punto de perderse
+CL00925,428,1,16.00,1,1,1,111,6. A punto de perderse
+CL00926,389,1,21.00,1,1,1,111,6. A punto de perderse
+CL00927,62,3,45.75,3,3,3,333,1. Campeones
+CL00928,314,2,50.25,1,2,3,123,5. Valiosos en riesgo
+CL00929,258,1,10.50,1,1,1,111,6. A punto de perderse
+CL00930,23,3,50.25,3,3,3,333,1. Campeones
+CL00931,559,1,26.50,1,1,2,112,6. A punto de perderse
+CL00932,454,1,16.00,1,1,1,111,6. A punto de perderse
+CL00933,35,3,48.25,3,3,3,333,1. Campeones
+CL00934,202,1,10.50,2,1,1,211,4. Ocasionales en pausa
+CL00935,422,1,19.25,1,1,1,111,6. A punto de perderse
+CL00936,122,2,32.00,2,2,2,222,3. Valiosos enfriandose
+CL00937,346,6,99.75,1,3,3,133,5. Valiosos en riesgo
+CL00938,570,1,21.00,1,1,1,111,6. A punto de perderse
+CL00939,567,1,16.00,1,1,1,111,6. A punto de perderse
+CL00940,667,1,16.75,1,1,1,111,6. A punto de perderse
+CL00941,144,8,180.50,2,3,3,233,3. Valiosos enfriandose
+CL00942,229,4,71.00,2,3,3,233,3. Valiosos enfriandose
+CL00943,173,2,21.00,2,2,1,221,4. Ocasionales en pausa
+CL00944,73,6,166.00,3,3,3,333,1. Campeones
+CL00945,420,2,35.00,1,2,2,122,5. Valiosos en riesgo
+CL00946,0,6,81.50,3,3,3,333,1. Campeones
+CL00947,72,2,21.00,3,2,1,321,2. Recientes de una compra
+CL00948,537,2,55.00,1,2,3,123,5. Valiosos en riesgo
+CL00949,266,4,100.50,1,3,3,133,5. Valiosos en riesgo
+CL00950,329,1,44.00,1,1,3,113,6. A punto de perderse
+CL00951,392,5,42.50,1,3,3,133,5. Valiosos en riesgo
+CL00952,284,1,10.50,1,1,1,111,6. A punto de perderse
+CL00953,6,5,108.50,3,3,3,333,1. Campeones
+CL00954,43,3,56.25,3,3,3,333,1. Campeones
+CL00955,144,1,35.25,2,1,2,212,4. Ocasionales en pausa
+CL00956,68,3,35.00,3,3,2,332,1. Campeones
+CL00957,47,4,59.50,3,3,3,333,1. Campeones
+CL00958,560,4,63.00,1,3,3,133,5. Valiosos en riesgo
+CL00959,214,2,24.00,2,2,2,222,3. Valiosos enfriandose
+CL00960,46,7,267.50,3,3,3,333,1. Campeones
+CL00961,368,1,57.50,1,1,3,113,6. A punto de perderse
+CL00962,154,4,49.50,2,3,3,233,3. Valiosos enfriandose
+CL00963,363,4,48.00,1,3,3,133,5. Valiosos en riesgo
+CL00964,405,3,65.75,1,3,3,133,5. Valiosos en riesgo
+CL00965,34,3,81.00,3,3,3,333,1. Campeones
+CL00966,46,3,31.50,3,3,2,332,1. Campeones
+CL00967,449,1,8.75,1,1,1,111,6. A punto de perderse
+CL00968,432,1,17.50,1,1,1,111,6. A punto de perderse
+CL00969,290,4,123.75,1,3,3,133,5. Valiosos en riesgo
+CL00970,468,8,369.00,1,3,3,133,5. Valiosos en riesgo
+CL00971,5,2,31.50,3,2,2,322,1. Campeones
+CL00972,140,3,24.00,2,3,2,232,3. Valiosos enfriandose
+CL00973,547,1,8.00,1,1,1,111,6. A punto de perderse
+CL00974,162,5,173.25,2,3,3,233,3. Valiosos enfriandose
+CL00975,121,8,136.75,2,3,3,233,3. Valiosos enfriandose
+CL00976,218,2,70.50,2,2,3,223,3. Valiosos enfriandose
+CL00977,665,1,16.75,1,1,1,111,6. A punto de perderse
+CL00978,121,5,122.75,2,3,3,233,3. Valiosos enfriandose
+CL00979,39,2,19.25,3,2,1,321,2. Recientes de una compra
+CL00980,189,1,8.75,2,1,1,211,4. Ocasionales en pausa
+CL00981,137,3,31.50,2,3,2,232,3. Valiosos enfriandose
+CL00982,166,2,99.00,2,2,3,223,3. Valiosos enfriandose
+CL00983,580,2,63.00,1,2,3,123,5. Valiosos en riesgo
+CL00984,690,1,25.50,1,1,2,112,6. A punto de perderse
+CL00985,257,3,32.00,1,3,2,132,5. Valiosos en riesgo
+CL00986,172,3,58.00,2,3,3,233,3. Valiosos enfriandose
+CL00987,434,1,49.50,1,1,3,113,6. A punto de perderse
+CL00988,222,1,8.00,2,1,1,211,4. Ocasionales en pausa
+CL00989,0,2,32.75,3,2,2,322,1. Campeones
+CL00990,63,3,44.75,3,3,3,333,1. Campeones
+CL00991,303,8,250.00,1,3,3,133,5. Valiosos en riesgo
+CL00992,75,6,128.50,3,3,3,333,1. Campeones
+CL00993,286,3,37.75,1,3,2,132,5. Valiosos en riesgo
+CL00994,372,3,78.50,1,3,3,133,5. Valiosos en riesgo
+CL00995,275,8,253.25,1,3,3,133,5. Valiosos en riesgo
+CL00996,30,4,52.50,3,3,3,333,1. Campeones
+CL00997,643,1,55.00,1,1,3,113,6. A punto de perderse
+CL00998,382,3,35.25,1,3,2,132,5. Valiosos en riesgo
+CL00999,148,2,41.50,2,2,2,222,3. Valiosos enfriandose
+CL01000,309,6,78.75,1,3,3,133,5. Valiosos en riesgo
+CL01001,379,6,123.00,1,3,3,133,5. Valiosos en riesgo
+CL01002,77,3,31.50,3,3,2,332,1. Campeones
+CL01003,444,2,24.00,1,2,2,122,5. Valiosos en riesgo
+CL01004,374,8,168.25,1,3,3,133,5. Valiosos en riesgo
+CL01005,570,1,25.50,1,1,2,112,6. A punto de perderse
+CL01006,73,3,125.75,3,3,3,333,1. Campeones
+CL01007,91,3,39.50,3,3,2,332,1. Campeones
+CL01008,610,1,16.75,1,1,1,111,6. A punto de perderse
+CL01009,319,4,171.00,1,3,3,133,5. Valiosos en riesgo
+CL01010,504,1,63.75,1,1,3,113,6. A punto de perderse
+CL01011,94,3,58.25,3,3,3,333,1. Campeones
+CL01012,501,2,55.50,1,2,3,123,5. Valiosos en riesgo
+CL01013,181,3,75.75,2,3,3,233,3. Valiosos enfriandose
+CL01014,347,8,298.00,1,3,3,133,5. Valiosos en riesgo
+CL01015,341,2,66.00,1,2,3,123,5. Valiosos en riesgo
+CL01016,160,8,107.50,2,3,3,233,3. Valiosos enfriandose
+CL01017,265,5,91.00,1,3,3,133,5. Valiosos en riesgo
+CL01018,341,1,8.00,1,1,1,111,6. A punto de perderse
+CL01019,298,1,21.00,1,1,1,111,6. A punto de perderse
+CL01020,67,2,62.50,3,2,3,323,1. Campeones
+CL01021,454,4,100.25,1,3,3,133,5. Valiosos en riesgo
+CL01022,630,1,10.50,1,1,1,111,6. A punto de perderse
+CL01023,129,2,45.00,2,2,3,223,3. Valiosos enfriandose
+CL01024,565,3,71.00,1,3,3,133,5. Valiosos en riesgo
+CL01025,336,5,219.25,1,3,3,133,5. Valiosos en riesgo
+CL01026,27,2,21.00,3,2,1,321,2. Recientes de una compra
+CL01027,277,1,55.75,1,1,3,113,6. A punto de perderse
+CL01028,164,1,8.00,2,1,1,211,4. Ocasionales en pausa
+CL01029,331,1,35.25,1,1,2,112,6. A punto de perderse
+CL01030,50,4,101.25,3,3,3,333,1. Campeones
+CL01031,394,6,87.50,1,3,3,133,5. Valiosos en riesgo
+CL01032,288,4,60.50,1,3,3,133,5. Valiosos en riesgo
+CL01033,135,2,39.50,2,2,2,222,3. Valiosos enfriandose
+CL01034,295,5,134.00,1,3,3,133,5. Valiosos en riesgo
+CL01035,247,3,108.00,1,3,3,133,5. Valiosos en riesgo
+CL01036,58,2,31.50,3,2,2,322,1. Campeones
+CL01037,147,6,133.50,2,3,3,233,3. Valiosos enfriandose
+CL01038,268,2,70.50,1,2,3,123,5. Valiosos en riesgo
+CL01039,271,1,26.50,1,1,2,112,6. A punto de perderse
+CL01040,54,3,66.00,3,3,3,333,1. Campeones
+CL01041,72,3,78.50,3,3,3,333,1. Campeones
+CL01042,267,4,121.00,1,3,3,133,5. Valiosos en riesgo
+CL01043,185,4,90.00,2,3,3,233,3. Valiosos enfriandose
+CL01044,310,2,70.50,1,2,3,123,5. Valiosos en riesgo
+CL01045,505,1,27.25,1,1,2,112,6. A punto de perderse
+CL01046,75,4,91.50,3,3,3,333,1. Campeones
+CL01047,654,1,18.50,1,1,1,111,6. A punto de perderse
+CL01048,146,1,19.25,2,1,1,211,4. Ocasionales en pausa
+CL01049,23,6,92.00,3,3,3,333,1. Campeones
+CL01050,105,2,38.50,3,2,2,322,1. Campeones
+CL01051,479,1,8.00,1,1,1,111,6. A punto de perderse
+CL01052,470,2,54.50,1,2,3,123,5. Valiosos en riesgo
+CL01053,143,3,43.00,2,3,3,233,3. Valiosos enfriandose
+CL01054,307,5,118.00,1,3,3,133,5. Valiosos en riesgo
+CL01055,80,3,61.75,3,3,3,333,1. Campeones
+CL01056,93,3,42.00,3,3,2,332,1. Campeones
+CL01057,106,4,43.75,3,3,3,333,1. Campeones
+CL01058,82,2,31.50,3,2,2,322,1. Campeones
+CL01059,350,5,142.00,1,3,3,133,5. Valiosos en riesgo
+CL01060,515,1,8.00,1,1,1,111,6. A punto de perderse
+CL01061,48,3,52.00,3,3,3,333,1. Campeones
+CL01062,6,2,37.00,3,2,2,322,1. Campeones
+CL01063,193,2,21.00,2,2,1,221,4. Ocasionales en pausa
+CL01064,570,1,16.75,1,1,1,111,6. A punto de perderse
+CL01065,541,1,55.75,1,1,3,113,6. A punto de perderse
+CL01066,472,1,16.75,1,1,1,111,6. A punto de perderse
+CL01067,177,3,31.50,2,3,2,232,3. Valiosos enfriandose
+CL01068,386,4,81.50,1,3,3,133,5. Valiosos en riesgo
+CL01069,18,6,142.00,3,3,3,333,1. Campeones
+CL01070,193,6,142.75,2,3,3,233,3. Valiosos enfriandose
+CL01071,489,4,122.00,1,3,3,133,5. Valiosos en riesgo
+CL01072,460,5,196.75,1,3,3,133,5. Valiosos en riesgo
+CL01073,201,3,40.25,2,3,2,232,3. Valiosos enfriandose
+CL01074,11,4,151.25,3,3,3,333,1. Campeones
+CL01075,398,2,21.00,1,2,1,121,6. A punto de perderse
+CL01076,384,3,66.00,1,3,3,133,5. Valiosos en riesgo
+CL01077,25,5,161.75,3,3,3,333,1. Campeones
+CL01078,6,8,194.00,3,3,3,333,1. Campeones
+CL01079,594,1,29.00,1,1,2,112,6. A punto de perderse
+CL01080,100,2,26.25,3,2,2,322,1. Campeones
+CL01081,377,5,146.00,1,3,3,133,5. Valiosos en riesgo
+CL01082,674,1,21.00,1,1,1,111,6. A punto de perderse
+CL01083,101,3,91.50,3,3,3,333,1. Campeones
+CL01084,12,3,117.75,3,3,3,333,1. Campeones
+CL01085,58,3,42.00,3,3,2,332,1. Campeones
+CL01086,103,6,149.50,3,3,3,333,1. Campeones
+CL01087,359,4,40.00,1,3,2,132,5. Valiosos en riesgo
+CL01088,159,5,169.00,2,3,3,233,3. Valiosos enfriandose
+CL01089,76,2,45.00,3,2,3,323,1. Campeones
+CL01090,647,1,8.00,1,1,1,111,6. A punto de perderse
+CL01091,7,4,50.00,3,3,3,333,1. Campeones
+CL01092,99,3,40.00,3,3,2,332,1. Campeones
+CL01093,570,5,63.00,1,3,3,133,5. Valiosos en riesgo
+CL01094,400,1,26.50,1,1,2,112,6. A punto de perderse
+CL01095,664,1,21.00,1,1,1,111,6. A punto de perderse
+CL01096,195,1,16.75,2,1,1,211,4. Ocasionales en pausa
+CL01097,560,5,170.50,1,3,3,133,5. Valiosos en riesgo
+CL01098,482,6,100.25,1,3,3,133,5. Valiosos en riesgo
+CL01099,566,2,37.00,1,2,2,122,5. Valiosos en riesgo
+CL01100,388,1,60.00,1,1,3,113,6. A punto de perderse
+CL01101,388,2,42.25,1,2,2,122,5. Valiosos en riesgo
+CL01102,419,1,10.50,1,1,1,111,6. A punto de perderse
+CL01103,41,4,52.50,3,3,3,333,1. Campeones
+CL01104,503,5,248.25,1,3,3,133,5. Valiosos en riesgo
+CL01105,125,4,84.25,2,3,3,233,3. Valiosos enfriandose
+CL01106,144,2,24.00,2,2,2,222,3. Valiosos enfriandose
+CL01107,56,2,32.00,3,2,2,322,1. Campeones
+CL01108,15,3,48.25,3,3,3,333,1. Campeones
+CL01109,111,4,78.50,3,3,3,333,1. Campeones
+CL01110,137,1,10.50,2,1,1,211,4. Ocasionales en pausa
+CL01111,523,2,31.50,1,2,2,122,5. Valiosos en riesgo
+CL01112,139,3,114.50,2,3,3,233,3. Valiosos enfriandose
+CL01113,113,3,62.50,3,3,3,333,1. Campeones
+CL01114,542,3,79.00,1,3,3,133,5. Valiosos en riesgo
+CL01115,9,2,19.25,3,2,1,321,2. Recientes de una compra
+CL01116,295,2,27.25,1,2,2,122,5. Valiosos en riesgo
+CL01117,587,4,73.50,1,3,3,133,5. Valiosos en riesgo
+CL01118,382,2,42.00,1,2,2,122,5. Valiosos en riesgo
+CL01119,166,6,179.75,2,3,3,233,3. Valiosos enfriandose
+CL01120,331,8,212.00,1,3,3,133,5. Valiosos en riesgo
+CL01121,551,4,85.50,1,3,3,133,5. Valiosos en riesgo
+CL01122,331,4,32.00,1,3,2,132,5. Valiosos en riesgo
+CL01123,17,5,63.00,3,3,3,333,1. Campeones
+CL01124,82,4,128.25,3,3,3,333,1. Campeones
+CL01125,568,5,139.50,1,3,3,133,5. Valiosos en riesgo
+CL01126,113,5,73.50,3,3,3,333,1. Campeones
+CL01127,322,6,92.00,1,3,3,133,5. Valiosos en riesgo
+CL01128,579,1,17.50,1,1,1,111,6. A punto de perderse
+CL01129,38,7,66.50,3,3,3,333,1. Campeones
+CL01130,24,4,70.00,3,3,3,333,1. Campeones
+CL01131,493,3,135.50,1,3,3,133,5. Valiosos en riesgo
+CL01132,345,1,18.50,1,1,1,111,6. A punto de perderse
+CL01133,209,2,36.00,2,2,2,222,3. Valiosos enfriandose
+CL01134,660,1,27.25,1,1,2,112,6. A punto de perderse
+CL01135,53,5,40.00,3,3,2,332,1. Campeones
+CL01136,72,2,42.00,3,2,2,322,1. Campeones
+CL01137,36,2,42.25,3,2,2,322,1. Campeones
+CL01138,429,4,152.50,1,3,3,133,5. Valiosos en riesgo
+CL01139,390,5,119.75,1,3,3,133,5. Valiosos en riesgo
+CL01140,505,2,51.00,1,2,3,123,5. Valiosos en riesgo
+CL01141,40,4,32.00,3,3,2,332,1. Campeones
+CL01142,283,1,16.00,1,1,1,111,6. A punto de perderse
+CL01143,204,2,89.75,2,2,3,223,3. Valiosos enfriandose
+CL01144,521,5,133.50,1,3,3,133,5. Valiosos en riesgo
+CL01145,235,5,91.00,2,3,3,233,3. Valiosos enfriandose
+CL01146,221,5,96.50,2,3,3,233,3. Valiosos enfriandose
+CL01147,278,1,16.75,1,1,1,111,6. A punto de perderse
+CL01148,655,1,47.00,1,1,3,113,6. A punto de perderse
+CL01149,672,1,8.75,1,1,1,111,6. A punto de perderse
+CL01150,403,1,44.00,1,1,3,113,6. A punto de perderse
+CL01151,700,1,8.75,1,1,1,111,6. A punto de perderse
+CL01152,389,2,47.50,1,2,3,123,5. Valiosos en riesgo
+CL01153,661,1,8.00,1,1,1,111,6. A punto de perderse
+CL01154,477,4,77.25,1,3,3,133,5. Valiosos en riesgo
+CL01155,242,3,73.00,2,3,3,233,3. Valiosos enfriandose
+CL01156,611,1,10.50,1,1,1,111,6. A punto de perderse
+CL01157,412,2,44.00,1,2,3,123,5. Valiosos en riesgo
+CL01158,291,2,16.00,1,2,1,121,6. A punto de perderse
+CL01159,19,6,134.00,3,3,3,333,1. Campeones
+CL01160,284,4,126.00,1,3,3,133,5. Valiosos en riesgo
+CL01161,444,2,29.75,1,2,2,122,5. Valiosos en riesgo
+CL01162,1,5,120.50,3,3,3,333,1. Campeones
+CL01163,384,1,29.75,1,1,2,112,6. A punto de perderse
+CL01164,466,2,72.50,1,2,3,123,5. Valiosos en riesgo
+CL01165,405,6,56.00,1,3,3,133,5. Valiosos en riesgo
+CL01166,146,1,10.50,2,1,1,211,4. Ocasionales en pausa
+CL01167,211,2,65.00,2,2,3,223,3. Valiosos enfriandose
+CL01168,360,3,44.75,1,3,3,133,5. Valiosos en riesgo
+CL01169,427,5,144.25,1,3,3,133,5. Valiosos en riesgo
+CL01170,124,3,32.75,2,3,2,232,3. Valiosos enfriandose
+CL01171,544,5,67.25,1,3,3,133,5. Valiosos en riesgo
+CL01172,623,3,101.00,1,3,3,133,5. Valiosos en riesgo
+CL01173,20,3,47.50,3,3,3,333,1. Campeones
+CL01174,197,6,56.00,2,3,3,233,3. Valiosos enfriandose
+CL01175,311,4,71.75,1,3,3,133,5. Valiosos en riesgo
+CL01176,37,5,75.25,3,3,3,333,1. Campeones
+CL01177,111,2,24.00,3,2,2,322,1. Campeones
+CL01178,176,1,16.75,2,1,1,211,4. Ocasionales en pausa
+CL01179,84,4,66.50,3,3,3,333,1. Campeones
+CL01180,588,3,105.00,1,3,3,133,5. Valiosos en riesgo
+CL01181,153,1,10.50,2,1,1,211,4. Ocasionales en pausa
+CL01182,614,1,74.25,1,1,3,113,6. A punto de perderse
+CL01183,76,4,59.75,3,3,3,333,1. Campeones
+CL01184,390,4,74.00,1,3,3,133,5. Valiosos en riesgo
+CL01185,2,3,53.75,3,3,3,333,1. Campeones
+CL01186,1,5,122.25,3,3,3,333,1. Campeones
+CL01187,350,1,29.00,1,1,2,112,6. A punto de perderse
+CL01188,185,1,8.00,2,1,1,211,4. Ocasionales en pausa
+CL01189,391,1,8.00,1,1,1,111,6. A punto de perderse
+CL01190,551,3,67.75,1,3,3,133,5. Valiosos en riesgo
+CL01191,292,1,37.75,1,1,2,112,6. A punto de perderse
+CL01192,89,2,42.25,3,2,2,322,1. Campeones
+CL01193,33,8,115.50,3,3,3,333,1. Campeones
+CL01194,590,1,17.50,1,1,1,111,6. A punto de perderse
+CL01195,700,1,17.50,1,1,1,111,6. A punto de perderse
+CL01196,418,2,24.00,1,2,2,122,5. Valiosos en riesgo
+CL01197,450,1,16.75,1,1,1,111,6. A punto de perderse
+CL01198,239,1,10.50,2,1,1,211,4. Ocasionales en pausa
+CL01199,322,1,60.00,1,1,3,113,6. A punto de perderse
+CL01200,461,1,16.75,1,1,1,111,6. A punto de perderse
+CL01201,366,5,91.50,1,3,3,133,5. Valiosos en riesgo
+CL01202,129,3,41.50,2,3,2,232,3. Valiosos enfriandose
+CL01203,714,1,44.00,1,1,3,113,6. A punto de perderse
+CL01204,127,3,44.00,2,3,3,233,3. Valiosos enfriandose
+CL01205,348,6,138.25,1,3,3,133,5. Valiosos en riesgo
+CL01206,118,6,189.50,3,3,3,333,1. Campeones
+CL01207,71,8,83.25,3,3,3,333,1. Campeones
+CL01208,57,4,126.00,3,3,3,333,1. Campeones
+CL01209,57,3,74.00,3,3,3,333,1. Campeones
+CL01210,451,2,34.50,1,2,2,122,5. Valiosos en riesgo
+CL01211,129,2,31.50,2,2,2,222,3. Valiosos enfriandose
+CL01212,432,3,81.00,1,3,3,133,5. Valiosos en riesgo
+CL01213,476,1,36.00,1,1,2,112,6. A punto de perderse
+CL01214,265,6,91.00,1,3,3,133,5. Valiosos en riesgo
+CL01215,73,8,156.00,3,3,3,333,1. Campeones
+CL01216,583,4,64.75,1,3,3,133,5. Valiosos en riesgo
+CL01217,143,1,10.50,2,1,1,211,4. Ocasionales en pausa
+CL01218,164,1,33.50,2,1,2,212,4. Ocasionales en pausa
+CL01219,95,6,56.00,3,3,3,333,1. Campeones
+CL01220,41,3,74.75,3,3,3,333,1. Campeones
+CL01221,321,1,55.00,1,1,3,113,6. A punto de perderse
+CL01222,85,8,113.00,3,3,3,333,1. Campeones
+CL01223,54,4,70.50,3,3,3,333,1. Campeones
+CL01224,176,2,37.00,2,2,2,222,3. Valiosos enfriandose
+CL01225,512,2,31.50,1,2,2,122,5. Valiosos en riesgo
+CL01226,15,5,81.50,3,3,3,333,1. Campeones
+CL01227,202,1,18.50,2,1,1,211,4. Ocasionales en pausa
+CL01228,229,3,81.00,2,3,3,233,3. Valiosos enfriandose
+CL01229,122,2,25.50,2,2,2,222,3. Valiosos enfriandose
+CL01230,132,1,10.50,2,1,1,211,4. Ocasionales en pausa
+CL01231,183,5,108.25,2,3,3,233,3. Valiosos enfriandose
+CL01232,353,2,24.00,1,2,2,122,5. Valiosos en riesgo
+CL01233,277,8,262.00,1,3,3,133,5. Valiosos en riesgo
+CL01234,142,4,129.50,2,3,3,233,3. Valiosos enfriandose
+CL01235,221,1,44.00,2,1,3,213,4. Ocasionales en pausa
+CL01236,150,6,193.25,2,3,3,233,3. Valiosos enfriandose
+CL01237,465,4,99.75,1,3,3,133,5. Valiosos en riesgo
+CL01238,509,2,50.25,1,2,3,123,5. Valiosos en riesgo
+CL01239,137,1,10.50,2,1,1,211,4. Ocasionales en pausa
+CL01240,301,1,8.75,1,1,1,111,6. A punto de perderse
+CL01241,394,1,10.50,1,1,1,111,6. A punto de perderse
+CL01242,669,1,8.75,1,1,1,111,6. A punto de perderse
+CL01243,195,6,73.50,2,3,3,233,3. Valiosos enfriandose
+CL01244,13,4,42.00,3,3,2,332,1. Campeones
+CL01245,310,1,8.00,1,1,1,111,6. A punto de perderse
+CL01246,191,5,52.50,2,3,3,233,3. Valiosos enfriandose
+CL01247,103,3,42.00,3,3,2,332,1. Campeones
+CL01248,248,4,61.50,1,3,3,133,5. Valiosos en riesgo
+CL01249,37,2,21.00,3,2,1,321,2. Recientes de una compra
+CL01250,170,1,16.00,2,1,1,211,4. Ocasionales en pausa
+CL01251,402,5,65.50,1,3,3,133,5. Valiosos en riesgo
+CL01252,260,3,58.25,1,3,3,133,5. Valiosos en riesgo
+CL01253,542,5,71.75,1,3,3,133,5. Valiosos en riesgo
+CL01254,139,2,16.00,2,2,1,221,4. Ocasionales en pausa
+CL01255,307,2,21.00,1,2,1,121,6. A punto de perderse
+CL01256,666,1,47.00,1,1,3,113,6. A punto de perderse
+CL01257,381,1,21.00,1,1,1,111,6. A punto de perderse
+CL01258,206,4,34.50,2,3,2,232,3. Valiosos enfriandose
+CL01259,92,4,82.00,3,3,3,333,1. Campeones
+CL01260,346,2,70.50,1,2,3,123,5. Valiosos en riesgo
+CL01261,423,1,29.00,1,1,2,112,6. A punto de perderse
+CL01262,2,6,72.00,3,3,3,333,1. Campeones
+CL01263,288,5,79.00,1,3,3,133,5. Valiosos en riesgo
+CL01264,556,1,8.00,1,1,1,111,6. A punto de perderse
+CL01265,154,2,31.50,2,2,2,222,3. Valiosos enfriandose
+CL01266,463,5,113.50,1,3,3,133,5. Valiosos en riesgo
+CL01267,87,2,16.00,3,2,1,321,2. Recientes de una compra
+CL01268,75,4,66.75,3,3,3,333,1. Campeones
+CL01269,382,2,47.50,1,2,3,123,5. Valiosos en riesgo
+CL01270,12,4,92.50,3,3,3,333,1. Campeones
+CL01271,248,2,50.25,1,2,3,123,5. Valiosos en riesgo
+CL01272,324,1,33.50,1,1,2,112,6. A punto de perderse
+CL01273,520,1,10.50,1,1,1,111,6. A punto de perderse
+CL01274,614,4,52.50,1,3,3,133,5. Valiosos en riesgo
+CL01275,472,2,21.00,1,2,1,121,6. A punto de perderse
+CL01276,464,1,8.75,1,1,1,111,6. A punto de perderse
+CL01277,229,6,264.00,2,3,3,233,3. Valiosos enfriandose
+CL01278,149,6,134.00,2,3,3,233,3. Valiosos enfriandose
+CL01279,125,2,35.25,2,2,2,222,3. Valiosos enfriandose
+CL01280,250,6,131.00,1,3,3,133,5. Valiosos en riesgo
+CL01281,388,4,122.00,1,3,3,133,5. Valiosos en riesgo
+CL01282,354,5,74.00,1,3,3,133,5. Valiosos en riesgo
+CL01283,76,3,42.00,3,3,2,332,1. Campeones
+CL01284,106,6,71.75,3,3,3,333,1. Campeones
+CL01285,26,3,31.50,3,3,2,332,1. Campeones
+CL01286,127,6,71.75,2,3,3,233,3. Valiosos enfriandose
+CL01287,382,2,63.00,1,2,3,123,5. Valiosos en riesgo
+CL01288,320,4,83.75,1,3,3,133,5. Valiosos en riesgo
+CL01289,72,8,119.00,3,3,3,333,1. Campeones
+CL01290,359,5,84.50,1,3,3,133,5. Valiosos en riesgo
+CL01291,520,1,10.50,1,1,1,111,6. A punto de perderse
+CL01292,300,1,57.50,1,1,3,113,6. A punto de perderse
+CL01293,478,5,93.25,1,3,3,133,5. Valiosos en riesgo
+CL01294,483,4,69.75,1,3,3,133,5. Valiosos en riesgo
+CL01295,59,6,80.50,3,3,3,333,1. Campeones
+CL01296,398,2,42.25,1,2,2,122,5. Valiosos en riesgo
+CL01297,266,3,31.50,1,3,2,132,5. Valiosos en riesgo
+CL01298,613,2,53.50,1,2,3,123,5. Valiosos en riesgo
+CL01299,615,1,10.50,1,1,1,111,6. A punto de perderse
+CL01300,493,1,26.50,1,1,2,112,6. A punto de perderse
+CL01301,544,2,18.50,1,2,1,121,6. A punto de perderse
+CL01302,81,2,24.00,3,2,2,322,1. Campeones
+CL01303,351,5,147.00,1,3,3,133,5. Valiosos en riesgo
+CL01304,456,1,26.50,1,1,2,112,6. A punto de perderse
+CL01305,579,3,32.00,1,3,2,132,5. Valiosos en riesgo
+CL01306,23,4,62.50,3,3,3,333,1. Campeones
+CL01307,142,5,64.00,2,3,3,233,3. Valiosos enfriandose
+CL01308,350,6,109.25,1,3,3,133,5. Valiosos en riesgo
+CL01309,260,3,81.00,1,3,3,133,5. Valiosos en riesgo
+CL01310,424,1,21.00,1,1,1,111,6. A punto de perderse
+CL01311,405,4,73.50,1,3,3,133,5. Valiosos en riesgo
+CL01312,403,4,32.00,1,3,2,132,5. Valiosos en riesgo
+CL01313,37,3,84.25,3,3,3,333,1. Campeones
+CL01314,19,5,69.75,3,3,3,333,1. Campeones
+CL01315,83,2,55.00,3,2,3,323,1. Campeones
+CL01316,165,2,24.00,2,2,2,222,3. Valiosos enfriandose
+CL01317,241,3,92.00,2,3,3,233,3. Valiosos enfriandose
+CL01318,524,1,37.00,1,1,2,112,6. A punto de perderse
+CL01319,119,5,70.00,3,3,3,333,1. Campeones
+CL01320,56,3,59.00,3,3,3,333,1. Campeones
+CL01321,37,3,31.50,3,3,2,332,1. Campeones
+CL01322,39,3,130.50,3,3,3,333,1. Campeones
+CL01323,107,4,174.75,3,3,3,333,1. Campeones
+CL01324,483,6,117.75,1,3,3,133,5. Valiosos en riesgo
+CL01325,210,5,48.00,2,3,3,233,3. Valiosos enfriandose
+CL01326,21,2,24.75,3,2,2,322,1. Campeones
+CL01327,566,4,57.50,1,3,3,133,5. Valiosos en riesgo
+CL01328,725,1,16.00,1,1,1,111,6. A punto de perderse
+CL01329,72,6,187.75,3,3,3,333,1. Campeones
+CL01330,10,5,73.50,3,3,3,333,1. Campeones
+CL01331,89,2,24.00,3,2,2,322,1. Campeones
+CL01332,40,8,165.00,3,3,3,333,1. Campeones
+CL01333,490,1,18.50,1,1,1,111,6. A punto de perderse
+CL01334,627,3,121.00,1,3,3,133,5. Valiosos en riesgo
+CL01335,378,3,52.50,1,3,3,133,5. Valiosos en riesgo
+CL01336,24,7,179.50,3,3,3,333,1. Campeones
+CL01337,261,6,123.00,1,3,3,133,5. Valiosos en riesgo
+CL01338,93,3,136.75,3,3,3,333,1. Campeones
+CL01339,99,5,180.00,3,3,3,333,1. Campeones
+CL01340,398,1,60.00,1,1,3,113,6. A punto de perderse
+CL01341,650,2,100.50,1,2,3,123,5. Valiosos en riesgo
+CL01342,12,3,115.50,3,3,3,333,1. Campeones
+CL01343,88,3,100.25,3,3,3,333,1. Campeones
+CL01344,465,2,26.25,1,2,2,122,5. Valiosos en riesgo
+CL01345,221,8,166.50,2,3,3,233,3. Valiosos enfriandose
+CL01346,187,1,16.00,2,1,1,211,4. Ocasionales en pausa
+CL01347,20,4,135.50,3,3,3,333,1. Campeones
+CL01348,482,2,41.50,1,2,2,122,5. Valiosos en riesgo
+CL01349,81,3,31.50,3,3,2,332,1. Campeones
+CL01350,176,3,82.00,2,3,3,233,3. Valiosos enfriandose
+CL01351,285,2,59.00,1,2,3,123,5. Valiosos en riesgo
+CL01352,162,1,8.00,2,1,1,211,4. Ocasionales en pausa
+CL01353,1,4,75.00,3,3,3,333,1. Campeones
+CL01354,574,1,18.50,1,1,1,111,6. A punto de perderse
+CL01355,247,6,151.50,1,3,3,133,5. Valiosos en riesgo
+CL01356,524,2,21.00,1,2,1,121,6. A punto de perderse
+CL01357,58,3,109.00,3,3,3,333,1. Campeones
+CL01358,425,1,8.00,1,1,1,111,6. A punto de perderse
+CL01359,627,2,21.00,1,2,1,121,6. A punto de perderse
+CL01360,284,6,89.50,1,3,3,133,5. Valiosos en riesgo
+CL01361,140,6,95.75,2,3,3,233,3. Valiosos enfriandose
+CL01362,317,2,26.25,1,2,2,122,5. Valiosos en riesgo
+CL01363,11,8,178.75,3,3,3,333,1. Campeones
+CL01364,105,3,52.50,3,3,3,333,1. Campeones
+CL01365,612,1,18.50,1,1,1,111,6. A punto de perderse
+CL01366,491,2,42.25,1,2,2,122,5. Valiosos en riesgo
+CL01367,176,5,127.00,2,3,3,233,3. Valiosos enfriandose
+CL01368,3,3,24.00,3,3,2,332,1. Campeones
+CL01369,725,1,21.00,1,1,1,111,6. A punto de perderse
+CL01370,29,6,162.00,3,3,3,333,1. Campeones
+CL01371,184,2,29.75,2,2,2,222,3. Valiosos enfriandose
+CL01372,64,5,52.50,3,3,3,333,1. Campeones
+CL01373,564,3,50.75,1,3,3,133,5. Valiosos en riesgo
+CL01374,14,6,142.75,3,3,3,333,1. Campeones
+CL01375,409,1,8.75,1,1,1,111,6. A punto de perderse
+CL01376,174,1,10.50,2,1,1,211,4. Ocasionales en pausa
+CL01377,37,2,17.50,3,2,1,321,2. Recientes de una compra
+CL01378,330,1,24.75,1,1,2,112,6. A punto de perderse
+CL01379,565,1,21.00,1,1,1,111,6. A punto de perderse
+CL01380,393,2,81.25,1,2,3,123,5. Valiosos en riesgo
+CL01381,461,1,8.00,1,1,1,111,6. A punto de perderse
+CL01382,150,5,118.25,2,3,3,233,3. Valiosos enfriandose
+CL01383,375,1,10.50,1,1,1,111,6. A punto de perderse
+CL01384,29,3,52.50,3,3,3,333,1. Campeones
+CL01385,330,6,100.25,1,3,3,133,5. Valiosos en riesgo
+CL01386,539,3,24.00,1,3,2,132,5. Valiosos en riesgo
+CL01387,553,3,77.50,1,3,3,133,5. Valiosos en riesgo
+CL01388,127,3,59.00,2,3,3,233,3. Valiosos enfriandose
+CL01389,113,4,52.50,3,3,3,333,1. Campeones
+CL01390,35,4,73.50,3,3,3,333,1. Campeones
+CL01391,483,3,60.00,1,3,3,133,5. Valiosos en riesgo
+CL01392,245,2,63.00,1,2,3,123,5. Valiosos en riesgo
+CL01393,410,5,106.25,1,3,3,133,5. Valiosos en riesgo
+CL01394,61,2,97.25,3,2,3,323,1. Campeones
+CL01395,393,2,50.25,1,2,3,123,5. Valiosos en riesgo
+CL01396,390,3,63.00,1,3,3,133,5. Valiosos en riesgo
+CL01397,108,2,74.25,3,2,3,323,1. Campeones
+CL01398,119,2,29.75,3,2,2,322,1. Campeones
+CL01399,526,4,134.25,1,3,3,133,5. Valiosos en riesgo
+CL01400,105,3,125.75,3,3,3,333,1. Campeones
+CL01401,257,1,16.75,1,1,1,111,6. A punto de perderse
+CL01402,610,1,21.00,1,1,1,111,6. A punto de perderse
+CL01403,457,1,8.00,1,1,1,111,6. A punto de perderse
+CL01404,607,3,100.25,1,3,3,133,5. Valiosos en riesgo
+CL01405,110,6,85.75,3,3,3,333,1. Campeones
+CL01406,65,2,55.25,3,2,3,323,1. Campeones
+CL01407,329,5,110.00,1,3,3,133,5. Valiosos en riesgo
+CL01408,88,4,63.00,3,3,3,333,1. Campeones
+CL01409,387,1,10.50,1,1,1,111,6. A punto de perderse
+CL01410,482,5,64.00,1,3,3,133,5. Valiosos en riesgo
+CL01411,8,4,120.50,3,3,3,333,1. Campeones
+CL01412,30,7,64.75,3,3,3,333,1. Campeones
+CL01413,222,4,91.75,2,3,3,233,3. Valiosos enfriandose
+CL01414,480,1,10.50,1,1,1,111,6. A punto de perderse
+CL01415,105,5,101.25,3,3,3,333,1. Campeones
+CL01416,261,6,161.25,1,3,3,133,5. Valiosos en riesgo
+CL01417,118,6,204.50,3,3,3,333,1. Campeones
+CL01418,40,3,52.50,3,3,3,333,1. Campeones
+CL01419,87,2,27.25,3,2,2,322,1. Campeones
+CL01420,645,4,126.00,1,3,3,133,5. Valiosos en riesgo
+CL01421,53,5,92.00,3,3,3,333,1. Campeones
+CL01422,82,3,26.50,3,3,2,332,1. Campeones
+CL01423,29,3,32.75,3,3,2,332,1. Campeones
+CL01424,512,2,73.25,1,2,3,123,5. Valiosos en riesgo
+CL01425,721,1,33.50,1,1,2,112,6. A punto de perderse
+CL01426,480,3,49.50,1,3,3,133,5. Valiosos en riesgo
+CL01427,104,3,95.00,3,3,3,333,1. Campeones
+CL01428,80,4,95.00,3,3,3,333,1. Campeones
+CL01429,141,1,19.25,2,1,1,211,4. Ocasionales en pausa
+CL01430,116,4,56.00,3,3,3,333,1. Campeones
+CL01431,464,1,16.75,1,1,1,111,6. A punto de perderse
+CL01432,403,5,102.00,1,3,3,133,5. Valiosos en riesgo
+CL01433,336,8,132.25,1,3,3,133,5. Valiosos en riesgo
+CL01434,15,8,183.25,3,3,3,333,1. Campeones
+CL01435,48,4,40.00,3,3,2,332,1. Campeones
+CL01436,632,4,142.50,1,3,3,133,5. Valiosos en riesgo
+CL01437,4,3,97.75,3,3,3,333,1. Campeones
+CL01438,4,4,68.75,3,3,3,333,1. Campeones
+CL01439,55,3,42.00,3,3,2,332,1. Campeones
+CL01440,541,1,8.75,1,1,1,111,6. A punto de perderse
+CL01441,9,2,24.00,3,2,2,322,1. Campeones
+CL01442,200,4,42.00,2,3,2,232,3. Valiosos enfriandose
+CL01443,94,8,195.50,3,3,3,333,1. Campeones
+CL01444,121,3,100.50,2,3,3,233,3. Valiosos enfriandose
+CL01445,548,1,29.00,1,1,2,112,6. A punto de perderse
+CL01446,171,1,49.50,2,1,3,213,4. Ocasionales en pausa
+CL01447,391,1,29.00,1,1,2,112,6. A punto de perderse
+CL01448,184,2,35.25,2,2,2,222,3. Valiosos enfriandose
+CL01449,483,1,21.00,1,1,1,111,6. A punto de perderse
+CL01450,210,1,10.50,2,1,1,211,4. Ocasionales en pausa
+CL01451,700,1,8.00,1,1,1,111,6. A punto de perderse
+CL01452,200,2,26.25,2,2,2,222,3. Valiosos enfriandose
+CL01453,57,2,140.50,3,2,3,323,1. Campeones
+CL01454,468,2,24.00,1,2,2,122,5. Valiosos en riesgo
+CL01455,73,4,42.00,3,3,2,332,1. Campeones
+CL01456,425,1,54.50,1,1,3,113,6. A punto de perderse
+CL01457,507,2,24.00,1,2,2,122,5. Valiosos en riesgo
+CL01458,683,2,40.75,1,2,2,122,5. Valiosos en riesgo
+CL01459,367,1,29.00,1,1,2,112,6. A punto de perderse
+CL01460,687,1,21.00,1,1,1,111,6. A punto de perderse
+CL01461,252,1,8.75,1,1,1,111,6. A punto de perderse
+CL01462,241,1,19.25,2,1,1,211,4. Ocasionales en pausa
+CL01463,109,2,42.00,3,2,2,322,1. Campeones
+CL01464,727,1,29.00,1,1,2,112,6. A punto de perderse
+CL01465,49,4,144.25,3,3,3,333,1. Campeones
+CL01466,427,1,36.00,1,1,2,112,6. A punto de perderse
+CL01467,376,4,76.75,1,3,3,133,5. Valiosos en riesgo
+CL01468,105,3,48.00,3,3,3,333,1. Campeones
+CL01469,462,1,49.50,1,1,3,113,6. A punto de perderse
+CL01470,403,3,82.00,1,3,3,133,5. Valiosos en riesgo
+CL01471,19,6,149.00,3,3,3,333,1. Campeones
+CL01472,543,3,52.00,1,3,3,133,5. Valiosos en riesgo
+CL01473,457,1,77.50,1,1,3,113,6. A punto de perderse
+CL01474,180,6,199.50,2,3,3,233,3. Valiosos enfriandose
+CL01475,363,2,47.50,1,2,3,123,5. Valiosos en riesgo
+CL01476,28,2,72.50,3,2,3,323,1. Campeones
+CL01477,276,2,27.25,1,2,2,122,5. Valiosos en riesgo
+CL01478,75,4,81.00,3,3,3,333,1. Campeones
+CL01479,162,1,18.50,2,1,1,211,4. Ocasionales en pausa
+CL01480,109,2,24.75,3,2,2,322,1. Campeones
+CL01481,616,2,31.50,1,2,2,122,5. Valiosos en riesgo
+CL01482,135,2,45.00,2,2,3,223,3. Valiosos enfriandose
+CL01483,185,3,71.00,2,3,3,233,3. Valiosos enfriandose
+CL01484,55,3,74.00,3,3,3,333,1. Campeones
+CL01485,111,8,135.25,3,3,3,333,1. Campeones
+CL01486,407,2,27.25,1,2,2,122,5. Valiosos en riesgo
+CL01487,509,3,40.00,1,3,2,132,5. Valiosos en riesgo
+CL01488,608,2,33.50,1,2,2,122,5. Valiosos en riesgo
+CL01489,59,4,93.25,3,3,3,333,1. Campeones
+CL01490,54,2,21.00,3,2,1,321,2. Recientes de una compra
+CL01491,161,1,8.00,2,1,1,211,4. Ocasionales en pausa
+CL01492,428,1,16.75,1,1,1,111,6. A punto de perderse
+CL01493,555,4,135.50,1,3,3,133,5. Valiosos en riesgo
+CL01494,127,2,33.50,2,2,2,222,3. Valiosos enfriandose
+CL01495,182,8,172.00,2,3,3,233,3. Valiosos enfriandose
+CL01496,69,2,31.50,3,2,2,322,1. Campeones
+CL01497,456,3,125.50,1,3,3,133,5. Valiosos en riesgo
+CL01498,12,3,119.00,3,3,3,333,1. Campeones
+CL01499,346,6,84.00,1,3,3,133,5. Valiosos en riesgo
+CL01500,677,1,8.00,1,1,1,111,6. A punto de perderse

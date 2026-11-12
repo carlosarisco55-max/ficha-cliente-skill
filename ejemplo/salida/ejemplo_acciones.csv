@@ -1,0 +1,26 @@
+prioridad,cuando,palanca,clientes,gasto_historico
+A,Ahora,Reconocimiento y acceso,71,4117.0
+A,Ahora,Hábito,66,5100.25
+A,Ahora,Dotación + aversión a la pérdida,37,4611.5
+A,Ya,Reciprocidad antes que descuento,32,1643.0
+A,Ya,Hábito,15,1125.75
+A,Ya,Dotación + aversión a la pérdida,11,1507.0
+A,Ahora,Reciprocidad antes que descuento,1,59.75
+B,Fuego lento,Reciprocidad antes que descuento,120,7859.5
+B,Ahora,Segunda compra: fricción mínima + progreso dotado,95,1691.75
+B,Fuego lento,Hábito,87,6746.0
+B,Fuego lento,Dotación + aversión a la pérdida,85,11236.0
+B,Ya,Relevancia en su momento,2,32.0
+C,Fuego lento,Relevancia en su momento,7,124.25
+C,Fuego lento,Evitar reactancia,5,95.0
+D,Hibernar,Evitar reactancia,227,4145.75
+D,Microondas,Reciprocidad antes que descuento,112,5947.0
+D,Microondas,Dotación + aversión a la pérdida,72,7930.5
+D,Microondas,Hábito,54,4515.25
+D,Hibernar,Dotación + aversión a la pérdida,33,1867.25
+D,Microondas,Evitar reactancia,13,238.75
+-,NO IMPACTAR,,149,9734.25
+-,Esperar,Hábito,94,8923.0
+-,Esperar,Reconocimiento y acceso,84,5930.0
+-,Esperar,Dotación + aversión a la pérdida,16,1987.75
+-,Esperar,Segunda compra: fricción mínima + progreso dotado,12,234.0

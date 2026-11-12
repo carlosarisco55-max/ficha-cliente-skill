@@ -1,0 +1,69 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  smoke-test:
+    name: Smoke test sobre los fixtures (sin dependencias externas)
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    strategy:
+      matrix:
+        python-version: ["3.10", "3.12"]
+    env:
+      E: ejemplo/entradas
+    steps:
+      - name: Checkout
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          persist-credentials: false
+
+      - name: Setup Python
+        uses: actions/setup-python@0b93645e9fea7318ecaed2b359559ac225c90a2b # v5.3.0
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: Verificar que no hay dependencias externas
+        run: |
+          python -c "import ast,sys
+          tree = ast.parse(open('scripts/ficha_cliente.py', encoding='utf-8').read())
+          mods = {(n.names[0].name if isinstance(n, ast.Import) else (n.module or '')).split('.')[0]
+                  for n in ast.walk(tree) if isinstance(n, (ast.Import, ast.ImportFrom))}
+          bad = mods - set(sys.stdlib_module_names)
+          if bad:
+              sys.exit(f'import no estandar detectado: {bad}')
+          print('OK: solo librería estándar')
+          "
+
+      - name: Ficha completa con las cinco fuentes
+        run: |
+          python scripts/ficha_cliente.py --rfm $E/rfm.csv --ciclo $E/ciclo.csv --cesta $E/cesta_clientes.csv \
+            --segmentos $E/segmentos.csv --matriz $E/prop_matriz.csv --cuadrantes $E/prop_cuadrantes.csv \
+            --tenedores $E/prop_tenedores.csv --control $E/control.csv --output /tmp/f | tee /tmp/f.log
+          test -s /tmp/f_ficha.csv && test -s /tmp/f_acciones.csv
+          grep -q "Dotación" /tmp/f.log
+          grep -q "NO IMPACTAR" /tmp/f_ficha.csv
+          ! grep -q "AVISO" /tmp/f.log
+
+      - name: Sin tenedores no asigna renove; sin control avisa
+        run: |
+          python scripts/ficha_cliente.py --rfm $E/rfm.csv --segmentos $E/segmentos.csv --matriz $E/prop_matriz.csv \
+            --cuadrantes $E/prop_cuadrantes.csv --output /tmp/g | tee /tmp/g.log
+          grep -q "no --tenedores" /tmp/g.log
+          grep -q "sin --control" /tmp/g.log
+          ! grep -q "Renove" /tmp/g_ficha.csv
+
+      - name: Con una sola fuente se niega
+        run: |
+          if python scripts/ficha_cliente.py --rfm $E/rfm.csv --output /tmp/h; then echo "debía fallar"; exit 1; fi

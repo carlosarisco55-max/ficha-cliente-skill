@@ -1,0 +1,1501 @@
+cliente,n_tickets,ultimos_3_patrones,patron_actual,composicion,patron_sostenido,siguiente_natural,instruccion
+CL00001,3,4-4-4,4,Rojo,sí,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00002,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00003,3,2-2-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00004,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00005,3,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00006,6,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00007,2,4-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00008,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00009,3,1-1-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00010,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00011,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00012,4,1-2-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00013,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00014,2,3-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00015,2,3-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00016,2,3-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00017,6,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00018,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00019,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00020,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00021,5,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00022,3,2-6-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00023,3,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00024,5,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00025,3,1-1-5,5,Negro + Rojo,no,7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL00026,3,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00027,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00028,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00029,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00030,3,6-5-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00031,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00032,1,5,5,Negro + Rojo,sin secuencia (<3 tickets),7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL00033,6,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00034,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00035,4,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00036,3,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00037,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00038,2,4-4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00039,7,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00040,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00041,3,6-3-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00042,4,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00043,4,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00044,3,6-3-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00045,3,6-2-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00046,7,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00047,2,6-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00048,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00049,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00050,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00051,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00052,5,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00053,4,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00054,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00055,2,6-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00056,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00057,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00058,1,7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00059,5,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00060,4,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00061,7,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00062,3,7-6-7,7,Negro + Verde + Rojo,no,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00063,3,7-3-7,7,Negro + Verde + Rojo,no,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00064,4,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00065,5,7-4-7,7,Negro + Verde + Rojo,no,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00066,3,4-4-4,4,Rojo,sí,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00067,1,5,5,Negro + Rojo,sin secuencia (<3 tickets),7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL00068,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00069,3,3-1-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00070,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00071,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00072,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00073,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00074,3,2-2-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00075,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00076,3,4-2-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00077,4,1-1-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00078,4,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00079,6,3-4-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00080,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00081,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00082,3,1-3-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00083,2,3-5,5,Negro + Rojo,sin secuencia (<3 tickets),7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL00084,3,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00085,5,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00086,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00087,6,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00088,4,1-6-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00089,3,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00090,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00091,5,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00092,3,5-1-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00093,8,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00094,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00095,5,3-6-5,5,Negro + Rojo,no,7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL00096,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00097,5,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00098,2,6-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00099,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00100,2,7-7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00101,5,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00102,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00103,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00104,5,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00105,8,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00106,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00107,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00108,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00109,6,2-1-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00110,4,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00111,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00112,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00113,4,4-6-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00114,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00115,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00116,4,1-2-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00117,3,3-6-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00118,6,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00119,3,5-6-5,5,Negro + Rojo,no,7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL00120,2,3-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00121,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00122,6,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00123,6,3-2-7,7,Negro + Verde + Rojo,no,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00124,1,7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00125,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00126,5,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00127,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00128,3,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00129,3,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00130,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00131,2,4-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00132,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00133,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00134,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00135,5,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00136,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00137,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00138,6,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00139,6,1-3-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00140,4,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00141,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00142,5,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00143,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00144,3,4-3-5,5,Negro + Rojo,no,7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL00145,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00146,5,4-4-4,4,Rojo,sí,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00147,3,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00148,2,4-4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00149,8,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00150,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00151,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00152,3,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00153,3,3-4-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00154,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00155,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00156,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00157,4,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00158,2,6-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00159,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00160,2,4-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00161,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00162,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00163,3,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00164,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00165,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00166,3,3-7-7,7,Negro + Verde + Rojo,no,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00167,4,1-6-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00168,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00169,2,4-4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00170,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00171,4,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00172,2,6-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00173,3,1-3-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00174,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00175,3,4-4-4,4,Rojo,sí,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00176,8,6-2-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00177,1,7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00178,3,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00179,1,5,5,Negro + Rojo,sin secuencia (<3 tickets),7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL00180,3,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00181,5,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00182,4,4-4-4,4,Rojo,sí,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00183,2,7-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00184,8,1-6-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00185,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00186,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00187,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00188,5,2-2-5,5,Negro + Rojo,no,7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL00189,2,6-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00190,6,5-1-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00191,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00192,5,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00193,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00194,1,7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00195,3,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00196,3,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00197,4,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00198,4,4-6-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00199,6,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00200,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00201,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00202,2,7-7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00203,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00204,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00205,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00206,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00207,5,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00208,5,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00209,5,4-4-4,4,Rojo,sí,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00210,5,3-3-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00211,3,2-6-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00212,2,1-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00213,1,7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00214,1,7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00215,4,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00216,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00217,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00218,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00219,3,1-1-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00220,1,7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00221,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00222,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00223,4,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00224,8,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00225,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00226,4,4-1-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00227,8,1-4-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00228,6,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00229,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00230,3,6-2-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00231,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00232,5,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00233,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00234,4,3-3-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00235,6,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00236,3,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00237,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00238,3,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00239,5,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00240,5,6-6-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00241,7,3-5-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00242,4,2-6-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00243,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00244,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00245,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00246,8,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00247,3,1-1-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00248,6,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00249,2,3-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00250,2,7-7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00251,2,7-7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00252,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00253,3,6-4-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00254,5,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00255,8,3-3-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00256,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00257,4,2-4-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00258,6,7-6-7,7,Negro + Verde + Rojo,no,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00259,5,1-1-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00260,3,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00261,5,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00262,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00263,6,4-4-4,4,Rojo,sí,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00264,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00265,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00266,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00267,4,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00268,1,5,5,Negro + Rojo,sin secuencia (<3 tickets),7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL00269,4,2-2-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00270,2,4-4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00271,7,2-4-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00272,2,4-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00273,4,3-3-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00274,3,1-3-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00275,3,3-3-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00276,3,4-5-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00277,3,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00278,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00279,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00280,5,2-2-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00281,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00282,4,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00283,6,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00284,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00285,8,2-4-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00286,4,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00287,2,7-7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00288,4,1-1-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00289,1,7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00290,1,7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00291,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00292,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00293,8,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00294,2,5-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00295,5,3-1-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00296,8,2-2-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00297,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00298,6,1-1-5,5,Negro + Rojo,no,7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL00299,2,6-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00300,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00301,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00302,2,6-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00303,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00304,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00305,8,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00306,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00307,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00308,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00309,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00310,6,6-5-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00311,4,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00312,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00313,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00314,2,6-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00315,3,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00316,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00317,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00318,2,6-4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00319,4,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00320,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00321,4,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00322,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00323,2,2-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00324,1,7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00325,6,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00326,4,6-6-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00327,6,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00328,2,1-5,5,Negro + Rojo,sin secuencia (<3 tickets),7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL00329,8,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00330,2,3-4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00331,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00332,2,4-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00333,4,1-1-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00334,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00335,5,2-6-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00336,6,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00337,6,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00338,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00339,2,3-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00340,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00341,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00342,5,2-3-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00343,4,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00344,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00345,2,6-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00346,3,1-2-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00347,6,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00348,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00349,5,3-5-5,5,Negro + Rojo,no,7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL00350,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00351,3,1-1-5,5,Negro + Rojo,no,7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL00352,1,7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00353,4,6-6-5,5,Negro + Rojo,no,7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL00354,5,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00355,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00356,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00357,2,4-4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00358,2,3-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00359,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00360,5,3-1-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00361,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00362,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00363,1,5,5,Negro + Rojo,sin secuencia (<3 tickets),7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL00364,5,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00365,5,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00366,5,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00367,3,2-4-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00368,8,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00369,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00370,8,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00371,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00372,3,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00373,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00374,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00375,5,1-1-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00376,3,1-3-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00377,3,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00378,4,1-3-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00379,3,4-4-4,4,Rojo,sí,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00380,8,2-6-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00381,2,1-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00382,4,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00383,2,4-4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00384,2,4-7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00385,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00386,4,1-3-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00387,4,4-4-4,4,Rojo,sí,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00388,5,2-1-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00389,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00390,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00391,3,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00392,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00393,2,6-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00394,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00395,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00396,2,6-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00397,5,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00398,4,3-7-7,7,Negro + Verde + Rojo,no,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00399,2,7-7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00400,3,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00401,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00402,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00403,3,1-1-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00404,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00405,5,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00406,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00407,5,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00408,2,4-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00409,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00410,4,1-4-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00411,4,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00412,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00413,5,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00414,4,3-3-5,5,Negro + Rojo,no,7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL00415,2,7-7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00416,3,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00417,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00418,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00419,5,4-1-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00420,8,1-1-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00421,2,3-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00422,5,4-6-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00423,3,3-1-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00424,3,4-4-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00425,4,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00426,6,6-3-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00427,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00428,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00429,6,4-4-4,4,Rojo,sí,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00430,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00431,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00432,5,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00433,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00434,6,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00435,6,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00436,8,5-1-5,5,Negro + Rojo,no,7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL00437,3,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00438,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00439,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00440,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00441,3,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00442,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00443,2,6-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00444,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00445,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00446,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00447,3,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00448,3,2-3-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00449,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00450,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00451,4,3-1-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00452,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00453,3,4-4-5,5,Negro + Rojo,no,7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL00454,3,5-7-7,7,Negro + Verde + Rojo,no,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00455,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00456,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00457,1,7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00458,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00459,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00460,2,2-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00461,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00462,4,1-2-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00463,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00464,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00465,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00466,2,3-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00467,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00468,2,6-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00469,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00470,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00471,3,4-5-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00472,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00473,2,3-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00474,2,6-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00475,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00476,4,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00477,2,1-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00478,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00479,7,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00480,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00481,5,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00482,2,7-5,5,Negro + Rojo,sin secuencia (<3 tickets),7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL00483,3,1-5-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00484,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00485,3,1-6-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00486,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00487,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00488,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00489,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00490,4,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00491,8,6-1-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00492,3,4-6-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00493,4,2-3-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00494,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00495,3,2-4-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00496,2,5-4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00497,3,2-4-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00498,6,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00499,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00500,5,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00501,6,4-2-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00502,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00503,2,6-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00504,5,3-3-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00505,2,2-4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00506,3,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00507,8,4-1-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00508,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00509,5,2-3-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00510,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00511,3,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00512,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00513,3,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00514,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00515,2,7-7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00516,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00517,5,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00518,1,7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00519,1,7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00520,4,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00521,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00522,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00523,3,1-1-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00524,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00525,4,4-2-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00526,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00527,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00528,2,7-7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00529,3,6-1-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00530,2,2-4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00531,1,7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00532,5,1-3-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00533,2,6-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00534,2,6-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00535,4,5-6-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00536,5,1-1-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00537,2,6-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00538,4,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00539,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00540,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00541,5,5-3-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00542,4,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00543,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00544,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00545,4,4-4-4,4,Rojo,sí,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00546,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00547,8,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00548,6,4-4-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00549,6,1-1-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00550,2,3-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00551,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00552,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00553,4,1-1-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00554,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00555,3,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00556,2,4-5,5,Negro + Rojo,sin secuencia (<3 tickets),7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL00557,1,7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00558,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00559,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00560,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00561,2,7-7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00562,2,3-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00563,5,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00564,3,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00565,2,3-4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00566,6,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00567,5,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00568,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00569,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00570,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00571,8,1-1-5,5,Negro + Rojo,no,7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL00572,1,5,5,Negro + Rojo,sin secuencia (<3 tickets),7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL00573,3,1-1-5,5,Negro + Rojo,no,7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL00574,5,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00575,3,2-6-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00576,2,3-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00577,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00578,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00579,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00580,8,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00581,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00582,2,6-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00583,5,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00584,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00585,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00586,2,6-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00587,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00588,4,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00589,4,7-3-7,7,Negro + Verde + Rojo,no,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00590,5,5-1-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00591,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00592,3,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00593,4,3-4-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00594,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00595,4,7-3-7,7,Negro + Verde + Rojo,no,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00596,6,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00597,2,6-5,5,Negro + Rojo,sin secuencia (<3 tickets),7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL00598,2,7-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00599,5,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00600,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00601,2,3-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00602,8,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00603,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00604,3,4-3-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00605,4,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00606,2,6-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00607,4,6-2-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00608,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00609,4,1-1-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00610,1,7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00611,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00612,4,1-5-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00613,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00614,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00615,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00616,1,5,5,Negro + Rojo,sin secuencia (<3 tickets),7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL00617,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00618,8,6-6-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00619,8,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00620,3,4-4-4,4,Rojo,sí,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00621,5,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00622,5,3-3-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00623,4,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00624,6,1-1-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00625,4,7-4-7,7,Negro + Verde + Rojo,no,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00626,4,1-1-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00627,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00628,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00629,4,1-1-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00630,4,6-3-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00631,3,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00632,3,1-5-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00633,1,5,5,Negro + Rojo,sin secuencia (<3 tickets),7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL00634,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00635,8,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00636,4,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00637,5,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00638,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00639,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00640,5,3-1-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00641,5,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00642,2,1-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00643,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00644,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00645,2,5-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00646,4,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00647,4,3-3-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00648,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00649,4,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00650,1,7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00651,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00652,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00653,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00654,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00655,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00656,8,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00657,3,6-2-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00658,2,6-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00659,2,4-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00660,4,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00661,4,2-6-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00662,5,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00663,2,2-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00664,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00665,3,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00666,4,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00667,2,7-7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00668,6,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00669,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00670,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00671,5,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00672,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00673,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00674,5,1-1-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00675,2,6-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00676,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00677,3,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00678,5,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00679,6,3-2-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00680,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00681,8,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00682,8,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00683,2,3-4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00684,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00685,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00686,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00687,6,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00688,4,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00689,5,4-4-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00690,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00691,2,4-4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00692,3,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00693,8,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00694,6,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00695,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00696,2,7-7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00697,6,4-4-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00698,3,4-4-4,4,Rojo,sí,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00699,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00700,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00701,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00702,2,3-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00703,6,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00704,2,7-7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00705,3,1-2-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00706,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00707,6,1-3-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00708,3,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00709,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00710,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00711,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00712,2,2-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00713,8,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00714,6,2-2-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00715,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00716,2,6-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00717,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00718,2,3-4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00719,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00720,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00721,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00722,5,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00723,5,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00724,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00725,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00726,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00727,4,4-7-7,7,Negro + Verde + Rojo,no,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00728,3,3-1-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00729,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00730,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00731,4,3-3-5,5,Negro + Rojo,no,7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL00732,2,7-4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00733,6,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00734,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00735,3,3-2-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00736,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00737,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00738,3,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00739,3,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00740,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00741,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00742,5,1-1-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00743,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00744,8,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00745,6,4-1-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00746,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00747,2,6-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00748,5,3-2-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00749,6,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00750,4,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00751,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00752,3,6-6-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00753,6,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00754,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00755,4,1-4-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00756,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00757,8,1-3-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00758,1,7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00759,3,2-1-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00760,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00761,8,2-7-7,7,Negro + Verde + Rojo,no,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00762,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00763,4,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00764,3,1-3-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00765,3,3-7-7,7,Negro + Verde + Rojo,no,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00766,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00767,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00768,4,4-2-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00769,6,2-5-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00770,5,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00771,2,2-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00772,5,6-3-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00773,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00774,5,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00775,5,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00776,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00777,2,4-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00778,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00779,3,4-4-4,4,Rojo,sí,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00780,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00781,2,4-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00782,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00783,3,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00784,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00785,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00786,2,7-7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00787,2,6-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00788,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00789,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00790,5,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00791,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00792,3,4-6-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00793,5,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00794,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00795,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00796,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00797,3,4-4-4,4,Rojo,sí,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00798,4,3-4-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00799,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00800,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00801,3,7-7-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00802,4,6-7-7,7,Negro + Verde + Rojo,no,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00803,3,4-1-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00804,3,3-6-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00805,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00806,4,4-4-4,4,Rojo,sí,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00807,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00808,8,4-1-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00809,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00810,6,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00811,3,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00812,5,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00813,4,6-1-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00814,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00815,2,6-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00816,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00817,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00818,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00819,2,6-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00820,3,1-6-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00821,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00822,4,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00823,2,7-7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00824,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00825,3,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00826,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00827,2,2-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00828,4,2-2-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00829,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00830,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00831,1,5,5,Negro + Rojo,sin secuencia (<3 tickets),7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL00832,3,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00833,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00834,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00835,4,2-2-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00836,2,6-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00837,3,6-2-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00838,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00839,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00840,4,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00841,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00842,8,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00843,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00844,2,4-4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00845,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00846,1,7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00847,3,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00848,8,5-1-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00849,5,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00850,7,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00851,4,4-3-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00852,3,6-6-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00853,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00854,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00855,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00856,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00857,3,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00858,5,6-1-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00859,3,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00860,5,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00861,2,7-7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00862,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00863,2,3-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00864,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00865,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00866,2,3-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00867,4,1-1-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00868,3,2-2-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00869,4,5-1-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00870,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00871,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00872,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00873,2,3-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00874,4,4-1-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00875,4,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00876,2,2-5,5,Negro + Rojo,sin secuencia (<3 tickets),7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL00877,4,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00878,6,3-2-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00879,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00880,3,2-1-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00881,5,6-6-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00882,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00883,3,4-1-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00884,8,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00885,3,1-1-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00886,2,6-5,5,Negro + Rojo,sin secuencia (<3 tickets),7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL00887,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00888,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00889,6,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00890,6,5-3-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00891,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00892,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00893,6,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00894,3,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00895,2,3-4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00896,3,4-5-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00897,5,2-1-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00898,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00899,3,2-1-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00900,3,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00901,2,2-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00902,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00903,2,3-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00904,6,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00905,5,3-1-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00906,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00907,2,3-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00908,4,4-4-4,4,Rojo,sí,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00909,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00910,2,5-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00911,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00912,5,3-1-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00913,1,7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00914,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00915,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00916,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00917,4,6-3-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00918,2,6-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00919,5,4-4-4,4,Rojo,sí,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00920,3,2-2-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00921,5,6-3-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00922,6,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00923,6,4-3-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00924,1,7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00925,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00926,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00927,3,1-6-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00928,2,6-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00929,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00930,3,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00931,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00932,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00933,3,6-1-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00934,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00935,1,5,5,Negro + Rojo,sin secuencia (<3 tickets),7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL00936,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00937,6,1-1-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00938,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00939,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00940,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00941,8,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00942,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00943,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00944,6,6-6-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00945,2,4-4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00946,6,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00947,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00948,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00949,4,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00950,1,7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00951,5,1-2-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00952,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00953,5,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00954,3,6-1-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00955,1,7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00956,3,4-4-4,4,Rojo,sí,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00957,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00958,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00959,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00960,7,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00961,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00962,4,4-2-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00963,4,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00964,3,5-1-7,7,Negro + Verde + Rojo,no,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00965,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00966,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00967,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00968,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00969,4,1-1-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00970,8,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00971,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00972,3,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00973,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00974,5,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL00975,8,1-1-5,5,Negro + Rojo,no,7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL00976,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00977,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00978,5,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00979,2,1-4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00980,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00981,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00982,2,6-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00983,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00984,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00985,3,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00986,3,3-1-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00987,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00988,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00989,2,2-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00990,3,4-1-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL00991,8,4-1-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00992,6,6-3-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00993,3,1-4-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL00994,3,1-2-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00995,8,7-7-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00996,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00997,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00998,3,1-2-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL00999,2,6-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01000,6,4-4-4,4,Rojo,sí,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01001,6,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01002,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01003,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01004,8,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01005,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01006,3,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01007,3,1-1-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01008,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01009,4,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01010,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01011,3,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01012,2,3-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01013,3,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01014,8,5-7-7,7,Negro + Verde + Rojo,no,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01015,2,3-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01016,8,3-2-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01017,5,1-1-5,5,Negro + Rojo,no,7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL01018,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01019,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01020,2,7-7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01021,4,1-1-5,5,Negro + Rojo,no,7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL01022,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01023,2,3-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01024,3,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01025,5,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01026,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01027,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01028,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01029,1,7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01030,4,6-4-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01031,6,2-3-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01032,4,1-2-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01033,2,3-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01034,5,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01035,3,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01036,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01037,6,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01038,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01039,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01040,3,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01041,3,1-1-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01042,4,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01043,4,6-4-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01044,2,6-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01045,1,7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01046,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01047,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01048,1,5,5,Negro + Rojo,sin secuencia (<3 tickets),7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL01049,6,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01050,2,4-5,5,Negro + Rojo,sin secuencia (<3 tickets),7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL01051,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01052,2,7-7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01053,3,6-4-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01054,5,3-4-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01055,3,3-6-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01056,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01057,4,4-4-4,4,Rojo,sí,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01058,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01059,5,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01060,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01061,3,5-2-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01062,2,3-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01063,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01064,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01065,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01066,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01067,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01068,4,2-2-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01069,6,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01070,6,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01071,4,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01072,5,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01073,3,5-1-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01074,4,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01075,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01076,3,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01077,5,6-7-7,7,Negro + Verde + Rojo,no,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01078,8,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01079,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01080,2,4-4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01081,5,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01082,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01083,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01084,3,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01085,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01086,6,1-3-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01087,4,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01088,5,6-7-7,7,Negro + Verde + Rojo,no,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01089,2,2-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01090,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01091,4,1-1-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01092,3,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01093,5,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01094,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01095,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01096,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01097,5,6-7-7,7,Negro + Verde + Rojo,no,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01098,6,4-4-4,4,Rojo,sí,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01099,2,3-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01100,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01101,2,6-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01102,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01103,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01104,5,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01105,4,5-3-5,5,Negro + Rojo,no,7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL01106,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01107,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01108,3,6-1-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01109,4,6-4-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01110,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01111,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01112,3,1-7-7,7,Negro + Verde + Rojo,no,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01113,3,1-6-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01114,3,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01115,2,1-4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01116,2,6-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01117,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01118,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01119,6,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01120,8,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01121,4,2-1-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01122,4,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01123,5,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01124,4,7-4-7,7,Negro + Verde + Rojo,no,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01125,5,6-6-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01126,5,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01127,6,1-2-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01128,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01129,7,2-1-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01130,4,5-1-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01131,3,1-7-7,7,Negro + Verde + Rojo,no,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01132,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01133,2,1-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01134,1,7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01135,5,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01136,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01137,2,6-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01138,4,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01139,5,3-4-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01140,2,6-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01141,4,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01142,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01143,2,7-7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01144,5,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01145,5,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01146,5,4-1-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01147,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01148,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01149,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01150,1,7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01151,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01152,2,3-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01153,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01154,4,1-6-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01155,3,7-7-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01156,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01157,2,7-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01158,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01159,6,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01160,4,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01161,2,1-5,5,Negro + Rojo,sin secuencia (<3 tickets),7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL01162,5,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01163,1,5,5,Negro + Rojo,sin secuencia (<3 tickets),7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL01164,2,6-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01165,6,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01166,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01167,2,7-7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01168,3,4-6-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01169,5,6-7-7,7,Negro + Verde + Rojo,no,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01170,3,2-2-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01171,5,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01172,3,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01173,3,3-1-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01174,6,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01175,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01176,5,2-5-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01177,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01178,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01179,4,5-4-5,5,Negro + Rojo,no,7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL01180,3,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01181,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01182,1,7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01183,4,4-4-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01184,4,3-3-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01185,3,5-2-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01186,5,4-7-7,7,Negro + Verde + Rojo,no,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01187,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01188,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01189,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01190,3,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01191,1,7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01192,2,6-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01193,8,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01194,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01195,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01196,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01197,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01198,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01199,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01200,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01201,5,1-1-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01202,3,2-2-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01203,1,7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01204,3,6-6-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01205,6,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01206,6,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01207,8,2-3-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01208,4,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01209,3,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01210,2,3-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01211,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01212,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01213,1,7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01214,6,1-5-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01215,8,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01216,4,4-4-4,4,Rojo,sí,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01217,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01218,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01219,6,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01220,3,3-3-5,5,Negro + Rojo,no,7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL01221,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01222,8,4-4-4,4,Rojo,sí,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01223,4,5-2-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01224,2,3-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01225,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01226,5,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01227,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01228,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01229,2,4-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01230,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01231,5,1-1-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01232,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01233,8,5-4-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01234,4,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01235,1,7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01236,6,7-7-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01237,4,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01238,2,6-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01239,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01240,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01241,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01242,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01243,6,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01244,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01245,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01246,5,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01247,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01248,4,4-4-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01249,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01250,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01251,5,2-2-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01252,3,2-6-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01253,5,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01254,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01255,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01256,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01257,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01258,4,2-2-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01259,4,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01260,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01261,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01262,6,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01263,5,1-1-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01264,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01265,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01266,5,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01267,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01268,4,1-1-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01269,2,3-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01270,4,3-2-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01271,2,6-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01272,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01273,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01274,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01275,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01276,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01277,6,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01278,6,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01279,2,6-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01280,6,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01281,4,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01282,5,2-1-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01283,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01284,6,1-5-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01285,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01286,6,1-4-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01287,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01288,4,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01289,8,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01290,5,1-3-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01291,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01292,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01293,5,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01294,4,5-2-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01295,6,4-4-4,4,Rojo,sí,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01296,2,6-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01297,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01298,2,6-5,5,Negro + Rojo,sin secuencia (<3 tickets),7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL01299,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01300,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01301,2,2-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01302,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01303,5,1-1-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01304,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01305,3,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01306,4,4-3-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01307,5,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01308,6,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01309,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01310,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01311,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01312,4,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01313,3,6-5-5,5,Negro + Rojo,no,7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL01314,5,6-2-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01315,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01316,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01317,3,2-3-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01318,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01319,5,4-4-4,4,Rojo,sí,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01320,3,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01321,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01322,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01323,4,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01324,6,6-1-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01325,5,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01326,2,4-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01327,4,6-2-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01328,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01329,6,3-4-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01330,5,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01331,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01332,8,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01333,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01334,3,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01335,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01336,7,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01337,6,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01338,3,1-5-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01339,5,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01340,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01341,2,5-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01342,3,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01343,3,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01344,2,4-4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01345,8,4-3-4,4,Rojo,no,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01346,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01347,4,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01348,2,6-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01349,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01350,3,4-4-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01351,2,6-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01352,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01353,4,6-6-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01354,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01355,6,2-6-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01356,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01357,3,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01358,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01359,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01360,6,2-6-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01361,6,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01362,2,4-4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01363,8,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01364,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01365,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01366,2,6-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01367,5,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01368,3,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01369,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01370,6,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01371,2,1-4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01372,5,4-4-4,4,Rojo,sí,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01373,3,1-1-5,5,Negro + Rojo,no,7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL01374,6,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01375,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01376,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01377,2,4-4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01378,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01379,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01380,2,6-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01381,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01382,5,4-2-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01383,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01384,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01385,6,4-4-4,4,Rojo,sí,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01386,3,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01387,3,4-1-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01388,3,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01389,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01390,4,2-6-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01391,3,3-6-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01392,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01393,5,5-2-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01394,2,6-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01395,2,6-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01396,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01397,2,2-5,5,Negro + Rojo,sin secuencia (<3 tickets),7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL01398,2,1-4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01399,4,1-1-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01400,3,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01401,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01402,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01403,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01404,3,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01405,6,2-4-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01406,2,5-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01407,5,6-3-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01408,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01409,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01410,5,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01411,4,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01412,7,2-4-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01413,4,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01414,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01415,5,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01416,6,6-1-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01417,6,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01418,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01419,2,6-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01420,4,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01421,5,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01422,3,2-2-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01423,3,6-2-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01424,2,4-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01425,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01426,3,6-6-2,2,Verde,no,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01427,3,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01428,4,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01429,1,5,5,Negro + Rojo,sin secuencia (<3 tickets),7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL01430,4,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01431,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01432,5,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01433,8,1-1-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01434,8,5-3-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01435,4,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01436,4,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01437,3,6-1-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01438,4,6-6-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01439,3,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01440,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01441,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01442,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01443,8,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01444,3,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01445,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01446,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01447,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01448,2,6-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01449,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01450,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01451,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01452,2,4-4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01453,2,6-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01454,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01455,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01456,1,7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01457,2,2-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01458,2,2-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01459,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01460,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01461,1,4,4,Rojo,sin secuencia (<3 tickets),5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01462,1,5,5,Negro + Rojo,sin secuencia (<3 tickets),7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL01463,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01464,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01465,4,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01466,1,7,7,Negro + Verde + Rojo,sin secuencia (<3 tickets),"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01467,4,6-6-3,3,Negro + Verde,no,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01468,3,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01469,1,1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01470,3,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01471,6,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01472,3,5-2-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01473,1,5,5,Negro + Rojo,sin secuencia (<3 tickets),7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL01474,6,7-7-7,7,Negro + Verde + Rojo,sí,"proteger, no ampliar",Nada que ampliar: proteger con novedades y ediciones limitadas
+CL01475,2,3-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01476,2,6-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01477,2,2-5,5,Negro + Rojo,sin secuencia (<3 tickets),7,2 de Negro + 2 de Rojo. No abrir la tercera
+CL01478,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01479,1,3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01480,2,4-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01481,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01482,2,3-3,3,Negro + Verde,sin secuencia (<3 tickets),7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01483,3,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01484,3,3-3-3,3,Negro + Verde,sí,7,2 de Negro + 2 de Verde. No abrir la tercera
+CL01485,8,4-4-4,4,Rojo,sí,5 o 6,"Las 4 casillas dentro de Rojo (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01486,2,5-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01487,3,2-2-2,2,Verde,sí,3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01488,2,6-2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01489,4,6-6-6,6,Verde + Rojo,sí,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01490,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01491,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01492,1,6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01493,4,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01494,2,6-6,6,Verde + Rojo,sin secuencia (<3 tickets),7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01495,8,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01496,2,1-1,1,Negro,sin secuencia (<3 tickets),3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01497,3,1-3-1,1,Negro,no,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01498,3,7-7-6,6,Verde + Rojo,no,7,2 de Verde + 2 de Rojo. No abrir la tercera
+CL01499,6,1-1-1,1,Negro,sí,3 o 5,"Las 4 casillas dentro de Negro (formato mayor, variedades, ediciones). No abrir otra categoría"
+CL01500,1,2,2,Verde,sin secuencia (<3 tickets),3 o 6,"Las 4 casillas dentro de Verde (formato mayor, variedades, ediciones). No abrir otra categoría"

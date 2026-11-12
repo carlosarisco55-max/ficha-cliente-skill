@@ -1,0 +1,6 @@
+segmento,n,Negro_n,Negro_pct,Negro_indice,Negro_vs_base,Rojo_n,Rojo_pct,Rojo_indice,Rojo_vs_base,Tetera_n,Tetera_pct,Tetera_indice,Tetera_vs_base,Verde_n,Verde_pct,Verde_indice,Verde_vs_base,tipo,familias_por_encima,familias_por_cliente
+Mujer >=35,511,350,0.6849,1.04,+,248,0.4853,1.0,-,87,0.1703,0.81,-,356,0.6967,1.01,+,Cross selling,Negro Verde,2.037
+Hombre >=35,454,290,0.6388,0.97,-,219,0.4824,0.99,-,112,0.2467,1.18,+,305,0.6718,0.98,-,Up selling,Tetera,2.04
+Hombre <35,305,203,0.6656,1.01,+,140,0.459,0.94,-,77,0.2525,1.21,+,216,0.7082,1.03,+,Cross selling,Negro Tetera Verde,2.085
+Mujer <35,230,143,0.6217,0.95,-,123,0.5348,1.1,+,38,0.1652,0.79,-,156,0.6783,0.98,-,Up selling,Rojo,2.0
+LINEA BASE,1500,986,0.6573,1.0,,730,0.4867,1.0,,314,0.2093,1.0,,1033,0.6887,1.0,,,,2.042
